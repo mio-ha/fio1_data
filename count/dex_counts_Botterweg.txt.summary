@@ -1,0 +1,15 @@
+Status	../tech_bam/Botterweg_Col-0_1.bam	../tech_bam/Botterweg_Col-0_2.bam	../tech_bam/Botterweg_rev5_1.bam	../tech_bam/Botterweg_rev5_2.bam	../tech_bam/Botterweg_wox4_1.bam	../tech_bam/Botterweg_wox4_2.bam
+Assigned	47167297	43243937	43824586	42286186	44820691	43091267
+Unassigned_Unmapped	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	1458328	1301002	1268893	1228832	1359060	1386431
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	253026	230194	223226	219154	234498	224094
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0

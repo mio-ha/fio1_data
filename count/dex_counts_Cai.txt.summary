@@ -1,0 +1,15 @@
+Status	../tech_bam/Cai_Col-0_1.bam	../tech_bam/Cai_Col-0_2.bam	../tech_bam/Cai_Col-0_3.bam	../tech_bam/Cai_fio1_1.bam	../tech_bam/Cai_fio1_2.bam	../tech_bam/Cai_fio1_3.bam
+Assigned	44842124	64419393	69831161	66100510	65660302	57431387
+Unassigned_Unmapped	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	1326002	1863851	1967708	2095149	1962032	2144121
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	235163	332146	365409	392142	388042	340247
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0

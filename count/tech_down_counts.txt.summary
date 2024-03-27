@@ -1,0 +1,15 @@
+Status	Parker_Col-0_20c_1_667_100bp.bam	Parker_Col-0_20c_2_667_100bp.bam	Parker_Col-0_20c_3_667_100bp.bam	Parker_Col-0_20c_4_667_100bp.bam	Parker_Col-0_20c_5_667_100bp.bam	Parker_Col-0_20c_6_667_100bp.bam	Parker_fio1_20c_1_667_100bp.bam	Parker_fio1_20c_2_667_100bp.bam	Parker_fio1_20c_3_667_100bp.bam	Parker_fio1_20c_4_667_100bp.bam	Parker_fio1_20c_5_667_100bp.bam	Parker_fio1_20c_6_667_100bp.bam
+Assigned	86322294	119180246	88564632	84282125	119347300	110704014	85473056	68997726	77401925	121295879	123162031	143483028
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	2059037	2058800	1271187	1559087	2009480	2031316	1191031	1393538	1276917	3262224	2215463	7343572
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	2942442	4442835	3708509	3261954	4332771	4062997	3352395	2456373	3017309	3935519	4581490	2033748

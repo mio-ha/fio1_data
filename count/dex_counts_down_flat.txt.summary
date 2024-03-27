@@ -1,0 +1,15 @@
+Status	../tech_bam/test2/Parker_Col-0_20c_1_667_100bp.bam	../tech_bam/test2/Parker_Col-0_20c_2_667_100bp.bam	../tech_bam/test2/Parker_Col-0_20c_3_667_100bp.bam	../tech_bam/test2/Parker_Col-0_20c_4_667_100bp.bam	../tech_bam/test2/Parker_Col-0_20c_5_667_100bp.bam	../tech_bam/test2/Parker_Col-0_20c_6_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_1_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_2_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_3_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_4_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_5_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_6_667_100bp.bam
+Assigned	68609359	102083078	82798046	73032032	101450474	91875162	75896468	57330892	67225161	94145547	104551584	49787808
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	21332089	21505778	9670895	14837216	22592073	23790303	11886998	14355826	13067593	32391146	23931699	101794257
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	1382325	2093025	1075387	1233918	1647004	1132862	2233016	1160919	1403397	1956929	1475701	1278283
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0	0	0	0	0	0

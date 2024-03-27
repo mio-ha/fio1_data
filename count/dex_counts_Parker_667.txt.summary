@@ -1,0 +1,15 @@
+Status	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081485_667Aligned.sortedByCoord.out.bam	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081486_667Aligned.sortedByCoord.out.bam	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081487_667Aligned.sortedByCoord.out.bam	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081488_667Aligned.sortedByCoord.out.bam	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081489_667Aligned.sortedByCoord.out.bam	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081490_667Aligned.sortedByCoord.out.bam	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081509_667Aligned.sortedByCoord.out.bam	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081510_667Aligned.sortedByCoord.out.bam	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081511_667Aligned.sortedByCoord.out.bam	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081512_667Aligned.sortedByCoord.out.bam	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081513_667Aligned.sortedByCoord.out.bam	/media/miyokawa/8TB-Data3/STAR_sample/ERR9081514_667Aligned.sortedByCoord.out.bam
+Assigned	69399309	102798870	83050617	73531027	102222903	92686620	76296335	57833376	67590123	95289273	105374524	51677197
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	19391321	19581662	8809869	13509437	20496359	21640157	10773954	13123666	11923583	29694210	21847729	96806588
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	1317261	1999613	1005320	1169177	1550386	1054422	2161195	1101593	1338107	1847132	1372983	1224125
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0	0	0	0	0	0

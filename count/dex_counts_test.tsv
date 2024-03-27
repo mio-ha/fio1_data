@@ -1,0 +1,20 @@
+"# Program:featureCounts v2.0.3; Command:""featureCounts"" ""-f"" ""-O"" ""-s"" ""2"" ""-p"" ""-T"" ""4"" ""-F"" ""GTF"" ""-a"" ""/home/miyokawa/ドキュメント/ngs/araport/Araport11_GTF_genes_transposons.Apr2023_flat.gtf"" ""-o"" ""dex_counts_down_flat.txt"" ""../tech_bam/test2/Parker_Col-0_20c_1_667_100bp.bam"" ""../tech_bam/test2/Parker_Col-0_20c_2_667_100bp.bam"" ""../tech_bam/test2/Parker_Col-0_20c_3_667_100bp.bam"" ""../tech_bam/test2/Parker_Col-0_20c_4_667_100bp.bam"" ""../tech_bam/test2/Parker_Col-0_20c_5_667_100bp.bam"" ""../tech_bam/test2/Parker_Col-0_20c_6_667_100bp.bam"" ""../tech_bam/test2/Parker_fio1_20c_1_667_100bp.bam"" ""../tech_bam/test2/Parker_fio1_20c_2_667_100bp.bam"" ""../tech_bam/test2/Parker_fio1_20c_3_667_100bp.bam"" ""../tech_bam/test2/Parker_fio1_20c_4_667_100bp.bam"" ""../tech_bam/test2/Parker_fio1_20c_5_667_100bp.bam"" ""../tech_bam/test2/Parker_fio1_20c_6_667_100bp.bam"" "																	
+Geneid	Chr	Start	End	Strand	Length	../tech_bam/test2/Parker_Col-0_20c_1_667_100bp.bam	../tech_bam/test2/Parker_Col-0_20c_2_667_100bp.bam	../tech_bam/test2/Parker_Col-0_20c_3_667_100bp.bam	../tech_bam/test2/Parker_Col-0_20c_4_667_100bp.bam	../tech_bam/test2/Parker_Col-0_20c_5_667_100bp.bam	../tech_bam/test2/Parker_Col-0_20c_6_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_1_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_2_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_3_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_4_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_5_667_100bp.bam	../tech_bam/test2/Parker_fio1_20c_6_667_100bp.bam
+AT1G01010	1	3631	3913	+	283	254	419	273	257	328	355	209	157	199	271	282	106
+AT1G01010	1	3996	4276	+	281	275	460	343	292	405	421	233	203	243	276	346	104
+AT1G01010	1	4486	4605	+	120	131	179	162	151	214	217	102	86	121	135	187	58
+AT1G01010	1	4706	5095	+	390	333	427	421	371	492	555	226	161	317	346	437	116
+AT1G01010	1	5174	5326	+	153	163	256	259	185	254	302	120	85	210	199	262	80
+AT1G01010	1	5439	5899	+	461	283	444	381	307	479	466	217	171	308	380	410	150
+AT1G01020	1	6788	7069	-	282	161	272	261	178	336	233	175	197	177	312	289	99
+AT1G01020	1	7157	7232	-	76	179	284	254	201	304	232	208	178	169	307	288	82
+AT1G01020	1	7233	7383	-	151	12	31	13	13	14	13	7	7	5	16	7	5
+AT1G01020	1	7384	7450	-	67	186	289	235	182	273	196	185	157	161	249	245	82
+AT1G01020	1	7564	7649	-	86	192	312	267	194	357	286	211	174	178	292	326	110
+AT1G01020	1	7762	7835	-	74	202	321	286	215	361	284	239	193	179	341	330	104
+AT1G01020	1	7942	7987	-	46	157	250	186	165	260	186	154	130	126	220	239	59
+AT1G01020	1	8236	8325	-	90	243	424	302	255	438	363	269	209	214	344	398	102
+AT1G01020	1	8326	8416	-	91	39	58	45	50	60	44	29	46	19	45	46	23
+AT1G01020	1	8417	8464	-	48	218	405	266	221	395	315	246	183	210	295	311	98
+AT1G01020	1	8571	8593	-	23	114	248	196	133	227	169	73	63	70	91	94	34
+AT1G01020	1	8594	8737	-	144	136	288	193	148	248	168	171	130	146	209	206	65
