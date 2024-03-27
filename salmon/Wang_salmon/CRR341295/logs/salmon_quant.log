@@ -1,0 +1,54 @@
+[2023-05-15 16:35:14.089] [jointLog] [info] setting maxHashResizeThreads to 4
+[2023-05-15 16:35:14.089] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2023-05-15 16:35:14.089] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2023-05-15 16:35:14.089] [jointLog] [info] Setting consensusSlack to selective-alignment default of 0.35.
+[2023-05-15 16:35:14.089] [jointLog] [info] parsing read library format
+[2023-05-15 16:35:14.089] [jointLog] [info] There is 1 library.
+[2023-05-15 16:35:14.126] [jointLog] [info] Loading pufferfish index
+[2023-05-15 16:35:14.126] [jointLog] [info] Loading dense pufferfish index.
+[2023-05-15 16:35:14.608] [jointLog] [info] done
+[2023-05-15 16:35:14.608] [jointLog] [info] Index contained 48,190 targets
+[2023-05-15 16:35:14.614] [jointLog] [info] Number of decoys : 7
+[2023-05-15 16:35:14.614] [jointLog] [info] First decoy index : 48,174 
+[2023-05-15 16:35:15.150] [jointLog] [info] Automatically detected most likely library type as IU
+
+[2023-05-15 16:37:34.682] [jointLog] [info] Computed 64,283 rich equivalence classes for further processing
+[2023-05-15 16:37:34.682] [jointLog] [info] Counted 29,675,907 total reads in the equivalence classes 
+[2023-05-15 16:37:34.684] [jointLog] [warning] 0.0300927% of fragments were shorter than the k used to build the index.
+If this fraction is too large, consider re-building the index with a smaller k.
+The minimum read size found was 20.
+
+
+[2023-05-15 16:37:34.684] [jointLog] [info] Number of mappings discarded because of alignment score : 7,864,530
+[2023-05-15 16:37:34.684] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 1,920,293
+[2023-05-15 16:37:34.684] [jointLog] [info] Number of fragments discarded because they are best-mapped to decoys : 890,869
+[2023-05-15 16:37:34.684] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings to valid targets : 2,008,495
+[2023-05-15 16:37:34.684] [jointLog] [info] Mapping rate = 71.6658%
+
+[2023-05-15 16:37:34.684] [jointLog] [info] finished quantifyLibrary()
+[2023-05-15 16:37:34.684] [jointLog] [info] Starting optimizer
+[2023-05-15 16:37:34.695] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2023-05-15 16:37:34.697] [jointLog] [info] iteration = 0 | max rel diff. = 6244.8
+[2023-05-15 16:37:34.682] [fileLog] [info] 
+At end of round 0
+==================
+Observed 41408737 total fragments (41408737 in most recent round)
+
+[2023-05-15 16:37:34.921] [jointLog] [info] iteration = 100 | max rel diff. = 15.7813
+[2023-05-15 16:37:35.154] [jointLog] [info] iteration = 200 | max rel diff. = 20.5189
+[2023-05-15 16:37:35.386] [jointLog] [info] iteration = 300 | max rel diff. = 2.26655
+[2023-05-15 16:37:35.619] [jointLog] [info] iteration = 400 | max rel diff. = 5.4518
+[2023-05-15 16:37:35.852] [jointLog] [info] iteration = 500 | max rel diff. = 0.465836
+[2023-05-15 16:37:36.086] [jointLog] [info] iteration = 600 | max rel diff. = 0.437234
+[2023-05-15 16:37:36.319] [jointLog] [info] iteration = 700 | max rel diff. = 0.147533
+[2023-05-15 16:37:36.551] [jointLog] [info] iteration = 800 | max rel diff. = 0.50527
+[2023-05-15 16:37:36.784] [jointLog] [info] iteration = 900 | max rel diff. = 0.104993
+[2023-05-15 16:37:37.015] [jointLog] [info] iteration = 1,000 | max rel diff. = 0.277159
+[2023-05-15 16:37:37.247] [jointLog] [info] iteration = 1,100 | max rel diff. = 0.0298622
+[2023-05-15 16:37:37.480] [jointLog] [info] iteration = 1,200 | max rel diff. = 0.217425
+[2023-05-15 16:37:37.713] [jointLog] [info] iteration = 1,300 | max rel diff. = 0.0212045
+[2023-05-15 16:37:37.947] [jointLog] [info] iteration = 1,400 | max rel diff. = 0.0430701
+[2023-05-15 16:37:38.140] [jointLog] [info] iteration = 1,484 | max rel diff. = 0.00838456
+[2023-05-15 16:37:38.141] [jointLog] [info] Finished optimizer
+[2023-05-15 16:37:38.141] [jointLog] [info] writing output 
+

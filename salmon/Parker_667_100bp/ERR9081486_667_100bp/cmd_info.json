@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "/home/miyokawa/ドキュメント/ngs/araport/tech_salmon_index",
+    "libType": "A",
+    "threads": "2",
+    "validateMappings": [],
+    "mates1": "ERR9081486_667_100bp_1.fq.gz",
+    "mates2": "ERR9081486_667_100bp_2.fq.gz",
+    "output": "../salmon/ERR9081486_667_100bp",
+    "auxDir": "aux_info"
+}

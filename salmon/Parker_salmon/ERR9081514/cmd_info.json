@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "/home/miyokawa/ドキュメント/ngs/araport/tech_salmon_index",
+    "libType": "A",
+    "threads": "2",
+    "validateMappings": [],
+    "mates1": "ERR9081514_1_noad.fastq.gz",
+    "mates2": "ERR9081514_2_noad.fastq.gz",
+    "output": "../../../salmon/ERR9081514",
+    "auxDir": "aux_info"
+}

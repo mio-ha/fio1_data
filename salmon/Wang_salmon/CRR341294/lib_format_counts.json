@@ -1,0 +1,22 @@
+{
+    "read_files": "[ CRR341294_1_noad.fastq.gz, CRR341294_2_noad.fastq.gz]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 25130739,
+    "num_assigned_fragments": 25130739,
+    "num_frags_with_concordant_consistent_mappings": 23957184,
+    "num_frags_with_inconsistent_or_orphan_mappings": 1369614,
+    "strand_mapping_bias": 0.502706703759507,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 12043437,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 11913747,
+    "SF": 549424,
+    "SR": 820190,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

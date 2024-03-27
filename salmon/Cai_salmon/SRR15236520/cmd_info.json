@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "/home/miyokawa/ドキュメント/ngs/araport/tech_salmon_index",
+    "libType": "A",
+    "threads": "2",
+    "validateMappings": [],
+    "mates1": "SRR15236520_1_noad.fastq.gz",
+    "mates2": "SRR15236520_2_noad.fastq.gz",
+    "output": "salmon/SRR15236520",
+    "auxDir": "aux_info"
+}
