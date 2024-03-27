@@ -1,0 +1,1252 @@
+INFO:lib.tools:File tpm_samples_333.txt opened in reading mode.
+INFO:psiCalculator:Buffering transcript expression levels.
+INFO:lib.tools:File tpm_samples_333.txt closed.
+INFO:lib.tools:File ioe/ara.all.events.ioe opened in reading mode.
+INFO:psiCalculator:Calculating PSI from the ioe file.
+ERROR:psiCalculator:transcript AT1G01448.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G01448;A3:1:165656-165769:165656-165983:+.
+ERROR:psiCalculator:transcript AT1G09825.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09825;A3:1:25845399-25845610:25845399-25845628:+.
+ERROR:psiCalculator:transcript AT1G33415.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33415;A3:1:12121686-12121863:12121686-12121887:+.
+ERROR:psiCalculator:transcript AT1G60545.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G60545;A3:1:22303894-22303964:22303894-22303979:+.
+ERROR:psiCalculator:transcript AT1G69572.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G69572;A3:1:26161709-26161796:26161709-26161809:+.
+ERROR:psiCalculator:transcript AT1G69572.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G69572;A3:1:26161709-26161796:26161709-26161821:+.
+ERROR:psiCalculator:transcript AT1G69572.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G69572;A3:1:26161709-26161809:26161709-26161821:+.
+ERROR:psiCalculator:transcript AT1G07119.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G07119_and_AT1G04563_and_AT1G07130;A3:1:2185175-2185391:2185175-2186103:+.
+ERROR:psiCalculator:transcript AT1G04933.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G12140_and_AT1G04933;A3:1:4123664-4123826:4123664-4124145:+.
+ERROR:psiCalculator:transcript AT1G25175.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G25175_and_AT1G25180;A3:1:8827623-8828298:8827623-8829112:+.
+ERROR:psiCalculator:transcript AT1G09255.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G06987_and_AT1G09255;A3:1:13858014-13858140:13858014-13858142:+.
+ERROR:psiCalculator:transcript AT1G09023.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09023_and_AT1G68935_and_AT1G68937;A3:1:25921805-25922423:25921805-25922670:+.
+ERROR:psiCalculator:transcript AT1G09925.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09925;A3:1:28936726-28936829:28936650-28936829:-.
+ERROR:psiCalculator:transcript AT1G09985.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09985;A3:1:29839999-29841542:29839955-29841542:-.
+ERROR:psiCalculator:transcript AT1G11592.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G11592;A3:1:3895538-3895625:3895536-3895625:-.
+ERROR:psiCalculator:transcript AT1G11592.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G11592;A3:1:3895848-3895935:3895845-3895935:-.
+ERROR:psiCalculator:transcript AT1G27921.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G27921;A3:1:9727161-9727377:9727027-9727377:-.
+ERROR:psiCalculator:transcript AT1G27921.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G27921;A3:1:9727161-9727377:9727027-9727377:-.
+ERROR:psiCalculator:transcript AT1G29357.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G29357;A3:1:10275219-10275294:10275147-10275294:-.
+ERROR:psiCalculator:transcript AT1G44125.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;A3:1:16783600-16783691:16783197-16783691:-.
+ERROR:psiCalculator:transcript AT1G52615.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G52615;A3:1:19601352-19601691:19601329-19601691:-.
+ERROR:psiCalculator:transcript AT1G58590.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G58590;A3:1:21743611-21743757:21743609-21743757:-.
+ERROR:psiCalculator:transcript AT1G60505.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G60505;A3:1:22295947-22296057:22295934-22296057:-.
+ERROR:psiCalculator:transcript AT1G60505.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G60505;A3:1:22295198-22295634:22295139-22295634:-.
+ERROR:psiCalculator:transcript AT1G60525.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G60525;A3:1:22301012-22301109:22300999-22301109:-.
+ERROR:psiCalculator:transcript AT1G68872.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G68872;A3:1:25890981-25891170:25890326-25891170:-.
+ERROR:psiCalculator:transcript AT1G71528.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G71528;A3:1:26940202-26940339:26940190-26940339:-.
+ERROR:psiCalculator:transcript AT1G71528.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G71528;A3:1:26940202-26940339:26940190-26940339:-.
+ERROR:psiCalculator:transcript AT1G33615.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;A3:1:12193370-12193458:12193271-12193458:-.
+ERROR:psiCalculator:transcript AT1G09185.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;A3:1:12383937-12384030:12383935-12384030:-.
+ERROR:psiCalculator:transcript AT1G09185.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;A3:1:12383937-12384030:12383935-12384030:-.
+ERROR:psiCalculator:transcript AT1G09185.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;A3:1:12383937-12384030:12383935-12384030:-.
+ERROR:psiCalculator:transcript AT1G09185.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;A3:1:12383937-12384030:12383935-12384030:-.
+ERROR:psiCalculator:transcript AT1G09185.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;A3:1:12383937-12384030:12383935-12384030:-.
+ERROR:psiCalculator:transcript AT1G09185.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;A3:1:12382677-12382762:12382649-12382762:-.
+ERROR:psiCalculator:transcript AT1G09185.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;A3:1:12382677-12382762:12382649-12382762:-.
+ERROR:psiCalculator:transcript AT1G09185.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;A3:1:12382677-12382762:12382649-12382762:-.
+ERROR:psiCalculator:transcript AT1G07203.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G07203_and_AT1G43886;A3:1:16642917-16643238:16642260-16643238:-.
+ERROR:psiCalculator:transcript AT1G07203.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G07203_and_AT1G43886;A3:1:16642917-16643238:16642260-16643238:-.
+ERROR:psiCalculator:transcript AT1G74205.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G74200_and_AT1G74205;A3:1:27909184-27909278:27909179-27909278:-.
+ERROR:psiCalculator:transcript AT2G00600.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00600;A3:2:6524351-6524844:6524351-6524847:+.
+ERROR:psiCalculator:transcript AT2G00600.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00600;A3:2:6524351-6524844:6524351-6524847:+.
+ERROR:psiCalculator:transcript AT2G00600.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00600;A3:2:6524351-6524775:6524351-6524847:+.
+ERROR:psiCalculator:transcript AT2G00600.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00600;A3:2:6524351-6524775:6524351-6524844:+.
+ERROR:psiCalculator:transcript AT2G10921.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G10921;A3:2:4302156-4302529:4302156-4302537:+.
+ERROR:psiCalculator:transcript AT2G10921.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G10921;A3:2:4302156-4302529:4302156-4302743:+.
+ERROR:psiCalculator:transcript AT2G14770.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G14770;A3:2:6332588-6332675:6332588-6332747:+.
+ERROR:psiCalculator:transcript AT2G30362.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G30362;A3:2:12938667-12939444:12938667-12939518:+.
+ERROR:psiCalculator:transcript AT2G30945.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G30945;A3:2:13172648-13173143:13172648-13173700:+.
+ERROR:psiCalculator:transcript AT2G35738.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35738;A3:2:15024001-15024477:15024001-15024599:+.
+ERROR:psiCalculator:transcript AT2G35738.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35738;A3:2:15024001-15024477:15024001-15024599:+.
+ERROR:psiCalculator:transcript AT2G35738.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35738;A3:2:15024001-15024477:15024001-15024599:+.
+ERROR:psiCalculator:transcript AT2G00400.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00400;A3:2:1778485-1778872:1778471-1778872:-.
+ERROR:psiCalculator:transcript AT2G09795.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09795;A3:2:3672125-3672206:3671615-3672206:-.
+ERROR:psiCalculator:transcript AT2G23040.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G23040;A3:2:9809694-9809793:9809411-9809793:-.
+ERROR:psiCalculator:transcript AT2G23040.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G23040;A3:2:9809319-9809793:9809255-9809793:-.
+ERROR:psiCalculator:transcript AT2G24755.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G24755;A3:2:10547916-10548002:10547911-10548002:-.
+ERROR:psiCalculator:transcript AT2G24755.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G24755;A3:2:10547916-10548002:10547911-10548002:-.
+ERROR:psiCalculator:transcript AT2G24755.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G24755;A3:2:10548370-10548447:10548338-10548447:-.
+ERROR:psiCalculator:transcript AT2G24755.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G24755;A3:2:10548370-10548447:10548338-10548447:-.
+ERROR:psiCalculator:transcript AT2G33051.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;A3:2:14023506-14023645:14023441-14023645:-.
+ERROR:psiCalculator:transcript AT2G33051.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;A3:2:14023506-14023645:14023441-14023645:-.
+ERROR:psiCalculator:transcript AT2G33051.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;A3:2:14023101-14023191:14023096-14023191:-.
+ERROR:psiCalculator:transcript AT2G33051.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;A3:2:14023101-14023191:14023096-14023191:-.
+ERROR:psiCalculator:transcript AT2G33051.9 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;A3:2:14023101-14023191:14023096-14023191:-.
+ERROR:psiCalculator:transcript AT2G33051.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;A3:2:14024212-14024304:14024171-14024304:-.
+ERROR:psiCalculator:transcript AT2G33051.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;A3:2:14024212-14024304:14024171-14024304:-.
+ERROR:psiCalculator:transcript AT2G33051.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;A3:2:14024212-14024304:14024171-14024304:-.
+ERROR:psiCalculator:transcript AT2G33051.9 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;A3:2:14024212-14024304:14024171-14024304:-.
+ERROR:psiCalculator:transcript AT2G33240.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33240;A3:2:14089669-14089747:14089630-14089747:-.
+ERROR:psiCalculator:transcript AT2G33815.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33815;A3:2:14305640-14305718:14305622-14305718:-.
+ERROR:psiCalculator:transcript AT2G42835.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G42835;A3:2:17824500-17824581:17824487-17824581:-.
+ERROR:psiCalculator:transcript AT2G42835.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G42835;A3:2:17824500-17824581:17824487-17824581:-.
+ERROR:psiCalculator:transcript AT2G45023.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G45023;A3:2:18571179-18571330:18571165-18571330:-.
+ERROR:psiCalculator:transcript AT2G45315.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G45315;A3:2:18682418-18682674:18682380-18682674:-.
+ERROR:psiCalculator:transcript AT2G46572.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G46572_and_AT2G46567;A3:2:19126969-19127154:19126962-19127154:-.
+ERROR:psiCalculator:transcript AT2G46572.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G46572_and_AT2G46567;A3:2:19126969-19127154:19126962-19127154:-.
+ERROR:psiCalculator:transcript AT3G00770.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00770;A3:3:16647698-16648180:16647698-16648325:+.
+ERROR:psiCalculator:transcript AT3G00470.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00470_and_AT3G05395;A3:3:10480801-10480923:10480801-10480926:+.
+ERROR:psiCalculator:transcript AT3G00470.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00470_and_AT3G05395;A3:3:10481343-10481452:10481343-10481604:+.
+ERROR:psiCalculator:transcript AT3G52535.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G52526_and_AT3G52535;A3:3:19487261-19487519:19487261-19488211:+.
+ERROR:psiCalculator:transcript AT3G07030.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G07030;A3:3:2223593-2223766:2223579-2223766:-.
+ERROR:psiCalculator:transcript AT3G07030.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G07030;A3:3:2224057-2224143:2224044-2224143:-.
+ERROR:psiCalculator:transcript AT3G07215.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G07215;A3:3:2296625-2296709:2296567-2296709:-.
+ERROR:psiCalculator:transcript AT3G07215.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G07215;A3:3:2296625-2296709:2296567-2296709:-.
+ERROR:psiCalculator:transcript AT3G21755.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G21755;A3:3:7667043-7667124:7666946-7667124:-.
+ERROR:psiCalculator:transcript AT3G27990.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G27990;A3:3:10395718-10396681:10393200-10396681:-.
+ERROR:psiCalculator:transcript AT3G29644.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G29644;A3:3:11500771-11501159:11500727-11501159:-.
+ERROR:psiCalculator:transcript AT3G05932.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G05932_and_AT3G05935;A3:3:1771533-1772228:1771525-1772228:-.
+ERROR:psiCalculator:transcript AT3G51075.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A3:3:18970355-18970448:18969368-18970448:-.
+ERROR:psiCalculator:transcript AT3G51075.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A3:3:18970355-18970448:18969368-18970448:-.
+ERROR:psiCalculator:transcript AT3G51075.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A3:3:18970355-18970448:18969368-18970448:-.
+ERROR:psiCalculator:transcript AT3G51075.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A3:3:18970355-18970448:18969368-18970448:-.
+ERROR:psiCalculator:transcript AT3G51075.10 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A3:3:18970067-18970305:18969368-18970305:-.
+ERROR:psiCalculator:transcript AT3G51075.11 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A3:3:18970067-18970305:18969368-18970305:-.
+ERROR:psiCalculator:transcript AT3G51075.12 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A3:3:18970067-18970305:18969368-18970305:-.
+ERROR:psiCalculator:transcript AT3G51075.12 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A3:3:18971828-18971946:18971628-18971946:-.
+ERROR:psiCalculator:transcript AT3G52072.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G52060_and_AT3G52072_and_AT3G52075;A3:3:19313836-19314091:19313532-19314091:-.
+ERROR:psiCalculator:transcript AT4G02955.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G02955;A3:4:8948085-8948246:8948012-8948246:-.
+ERROR:psiCalculator:transcript AT4G02995.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G02995;A3:4:10094179-10094673:10094155-10094673:-.
+ERROR:psiCalculator:transcript AT4G03015.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03015;A3:4:10593344-10593442:10593289-10593442:-.
+ERROR:psiCalculator:transcript AT4G03015.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03015;A3:4:10593344-10593442:10593304-10593442:-.
+ERROR:psiCalculator:transcript AT4G03015.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03015;A3:4:10593304-10593442:10593289-10593442:-.
+ERROR:psiCalculator:transcript AT4G03465.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03465;A3:4:17820432-17820533:17820349-17820533:-.
+ERROR:psiCalculator:transcript AT4G03465.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03465;A3:4:17820440-17820533:17820432-17820533:-.
+ERROR:psiCalculator:transcript AT4G04221.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G04221;A3:4:2036184-2036279:2035794-2036279:-.
+ERROR:psiCalculator:transcript AT4G06701.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G06701;A3:4:3939923-3940248:3939920-3940248:-.
+ERROR:psiCalculator:transcript AT4G26795.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G26795;A3:4:13488364-13488444:13488192-13488444:-.
+ERROR:psiCalculator:transcript AT4G26795.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G26795;A3:4:13488364-13488444:13488192-13488444:-.
+ERROR:psiCalculator:transcript AT4G26795.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G26795;A3:4:13488364-13488444:13488219-13488444:-.
+ERROR:psiCalculator:transcript AT4G26795.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G26795;A3:4:13488364-13488444:13488219-13488444:-.
+ERROR:psiCalculator:transcript AT4G26795.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G26795;A3:4:13488219-13488444:13488192-13488444:-.
+ERROR:psiCalculator:transcript AT4G27852.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G27852;A3:4:13873519-13873760:13873489-13873760:-.
+ERROR:psiCalculator:transcript AT4G31408.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G31408;A3:4:15242757-15242866:15242754-15242866:-.
+ERROR:psiCalculator:transcript AT4G37225.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G37225;A3:4:17516642-17516727:17516622-17516727:-.
+ERROR:psiCalculator:transcript AT4G38545.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G38545;A3:4:18023641-18023736:18023640-18023736:-.
+ERROR:psiCalculator:transcript AT4G40085.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G40085;A3:4:18579797-18580005:18579755-18580005:-.
+ERROR:psiCalculator:transcript AT4G03085.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473726-12473993:12473686-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.9 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473726-12473993:12473686-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473726-12473993:12473619-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.9 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473726-12473993:12473619-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473737-12473993:12473726-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473737-12473993:12473726-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473737-12473993:12473686-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473737-12473993:12473686-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473737-12473993:12473619-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473737-12473993:12473619-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.10 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473686-12473993:12473619-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473686-12473993:12473619-12473993:-.
+ERROR:psiCalculator:transcript AT4G03085.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A3:4:12473686-12473993:12473619-12473993:-.
+ERROR:psiCalculator:transcript AT4G03005.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03005;A3:4:10268272-10268566:10268272-10268617:+.
+ERROR:psiCalculator:transcript AT4G03005.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03005;A3:4:10268272-10268566:10268272-10268617:+.
+ERROR:psiCalculator:transcript AT4G07405.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G07405;A3:4:13027892-13027997:13027892-13028072:+.
+ERROR:psiCalculator:transcript AT4G02885.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G10843_and_AT4G02885;A3:4:6666145-6666373:6666145-6666380:+.
+ERROR:psiCalculator:transcript AT4G02885.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G10843_and_AT4G02885;A3:4:6666145-6666373:6666145-6666380:+.
+ERROR:psiCalculator:transcript AT5G00490.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00490;A3:5:9940008-9940278:9940004-9940278:-.
+ERROR:psiCalculator:transcript AT5G07152.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G07152;A3:5:2216154-2216416:2216106-2216416:-.
+ERROR:psiCalculator:transcript AT5G00610.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00610_and_AT5G07395;A3:5:20095939-20096082:20095669-20096082:-.
+ERROR:psiCalculator:transcript AT5G05435.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05435;A3:5:1606722-1606960:1606722-1607141:+.
+ERROR:psiCalculator:transcript AT5G18245.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;A3:5:6030881-6031139:6030881-6031180:+.
+ERROR:psiCalculator:transcript AT5G18245.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;A3:5:6030881-6031139:6030881-6031180:+.
+ERROR:psiCalculator:transcript AT5G18245.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;A3:5:6030881-6031139:6030881-6031180:+.
+ERROR:psiCalculator:transcript AT5G18245.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;A3:5:6030881-6031139:6030881-6031180:+.
+ERROR:psiCalculator:transcript AT5G18245.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;A3:5:6030881-6031139:6030881-6031180:+.
+ERROR:psiCalculator:transcript AT5G18245.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;A3:5:6030881-6031139:6030881-6031180:+.
+ERROR:psiCalculator:transcript AT5G36740.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G36740;A3:5:14460590-14460740:14460590-14460975:+.
+ERROR:psiCalculator:transcript AT5G36740.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G36740;A3:5:14463041-14463127:14463041-14463157:+.
+ERROR:psiCalculator:transcript AT5G48775.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G48775;A3:5:19775661-19775791:19775661-19775876:+.
+ERROR:psiCalculator:transcript AT5G48775.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G48775;A3:5:19775661-19775791:19775661-19775797:+.
+ERROR:psiCalculator:transcript AT5G48775.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G48775;A3:5:19775661-19775797:19775661-19775876:+.
+ERROR:psiCalculator:transcript AT5G53048.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G53048;A3:5:21510856-21510944:21510856-21510947:+.
+ERROR:psiCalculator:transcript AT5G53048.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G53048;A3:5:21510856-21510944:21510856-21510947:+.
+ERROR:psiCalculator:transcript AT5G67488.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G67488;A3:5:26934048-26934133:26934048-26934324:+.
+ERROR:psiCalculator:transcript AT5G15845.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G15845_and_AT5G15853;A3:5:5174949-5175201:5174949-5175881:+.
+ERROR:psiCalculator:transcript AT5G15845.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G15845_and_AT5G15853;A3:5:5174949-5175201:5174949-5175881:+.
+ERROR:psiCalculator:transcript AT5G15845.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G15845_and_AT5G15853;A3:5:5174949-5175201:5174949-5175881:+.
+ERROR:psiCalculator:transcript AT5G06695.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G06695_locus1_and_AT5G45030_and_AT5G06695_locus2;A3:5:18172569-18172932:18172569-18172943:+.
+ERROR:psiCalculator:transcript AT5G45472.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G45472_and_AT5G45469_and_AT5G45475_and_AT5G45490;A3:5:18426001-18426082:18426001-18426128:+.
+ERROR:psiCalculator:transcript AT5G49152.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G49152_and_AT5G49150;A3:5:19927898-19927969:19927898-19927990:+.
+ERROR:lib.tools:4215, in line 4216. Skipping line...
+ERROR:psiCalculator:transcript AT1G09765.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09765;A5:1:24299090-24299226:24298970-24299226:+.
+ERROR:psiCalculator:transcript AT1G26558.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G26558;A5:1:9176155-9176275:9176137-9176275:+.
+ERROR:psiCalculator:transcript AT1G48315.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G48315;A5:1:17854276-17854612:17854254-17854612:+.
+ERROR:psiCalculator:transcript AT1G48315.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G48315;A5:1:17854276-17854612:17854254-17854612:+.
+ERROR:psiCalculator:transcript AT1G49832.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G49832;A5:1:18447887-18447972:18447837-18447972:+.
+ERROR:psiCalculator:transcript AT1G25098.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G25098_and_AT1G25112;A5:1:8814166-8814734:8813245-8814734:+.
+ERROR:psiCalculator:transcript AT1G25175.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G25175_and_AT1G25180;A5:1:8828544-8829112:8827623-8829112:+.
+ERROR:psiCalculator:transcript AT1G09475.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09475;A5:1:16115809-16115905:16115809-16115987:-.
+ERROR:psiCalculator:transcript AT1G09845.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09845;A5:1:26209780-26209873:26209780-26210475:-.
+ERROR:psiCalculator:transcript AT1G15175.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G15175;A5:1:5223652-5223733:5223652-5224033:-.
+ERROR:psiCalculator:transcript AT1G44125.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;A5:1:16783197-16783483:16783197-16783691:-.
+ERROR:psiCalculator:transcript AT1G60505.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G60505;A5:1:22295139-22295634:22295139-22295715:-.
+ERROR:psiCalculator:transcript AT1G60505.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G60505;A5:1:22295139-22295613:22295139-22295715:-.
+ERROR:psiCalculator:transcript AT1G60505.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G60505;A5:1:22295139-22295613:22295139-22295634:-.
+ERROR:psiCalculator:transcript AT1G60525.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G60525;A5:1:22300267-22300662:22300267-22300675:-.
+ERROR:psiCalculator:transcript AT1G69587.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G69587;A5:1:26177250-26178088:26177250-26179205:-.
+ERROR:psiCalculator:transcript AT1G26208.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G26208_and_AT1G26218_and_AT1G26230;A5:1:9069523-9070219:9069523-9071156:-.
+ERROR:psiCalculator:transcript AT1G26208.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G26208_and_AT1G26218_and_AT1G26230;A5:1:9069523-9070219:9069523-9071156:-.
+ERROR:psiCalculator:transcript AT1G26208.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G26208_and_AT1G26218_and_AT1G26230;A5:1:9069523-9070219:9069523-9070546:-.
+ERROR:psiCalculator:transcript AT1G26208.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G26208_and_AT1G26218_and_AT1G26230;A5:1:9069523-9070219:9069523-9070546:-.
+ERROR:psiCalculator:transcript AT1G26208.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G26208_and_AT1G26218_and_AT1G26230;A5:1:9067301-9067381:9067301-9067488:-.
+ERROR:psiCalculator:transcript AT1G26208.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G26208_and_AT1G26218_and_AT1G26230;A5:1:9067301-9067381:9067301-9067488:-.
+ERROR:psiCalculator:transcript AT1G26208.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G26208_and_AT1G26218_and_AT1G26230;A5:1:9069523-9070546:9069523-9071156:-.
+ERROR:psiCalculator:transcript AT1G33615.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;A5:1:12195478-12195566:12195478-12195594:-.
+ERROR:psiCalculator:transcript AT1G09185.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;A5:1:12383677-12383785:12383677-12383882:-.
+ERROR:psiCalculator:transcript AT2G00600.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00600;A5:2:6523900-6524014:6523895-6524014:+.
+ERROR:psiCalculator:transcript AT2G00630.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00630;A5:2:8014875-8015255:8014867-8015255:+.
+ERROR:psiCalculator:transcript AT2G00630.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00630;A5:2:8014875-8015255:8014867-8015255:+.
+ERROR:psiCalculator:transcript AT2G14770.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G14770;A5:2:6333241-6333331:6333226-6333331:+.
+ERROR:psiCalculator:transcript AT2G35738.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35738;A5:2:15023810-15023884:15023648-15023884:+.
+ERROR:psiCalculator:transcript AT2G35738.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35738;A5:2:15023810-15023884:15023648-15023884:+.
+ERROR:psiCalculator:transcript AT2G35738.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35738;A5:2:15023810-15023884:15023648-15023884:+.
+ERROR:psiCalculator:transcript AT2G36792.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G36792;A5:2:15421504-15421584:15421484-15421584:+.
+ERROR:psiCalculator:transcript AT2G00640.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00640_and_AT2G07235;A5:2:8448080-8448894:8447219-8448894:+.
+ERROR:psiCalculator:transcript AT2G42247.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G42240_and_AT2G42247;A5:2:17600678-17600779:17600548-17600779:+.
+ERROR:psiCalculator:transcript AT2G00720.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00720;A5:2:9257465-9257651:9257465-9257662:-.
+ERROR:psiCalculator:transcript AT2G00720.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00720;A5:2:9257465-9257608:9257465-9257662:-.
+ERROR:psiCalculator:transcript AT2G00720.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00720;A5:2:9257465-9257608:9257465-9257651:-.
+ERROR:psiCalculator:transcript AT2G08185.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G08185;A5:2:11442684-11442774:11442684-11442797:-.
+ERROR:psiCalculator:transcript AT2G23040.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G23040;A5:2:9809255-9809338:9809255-9809793:-.
+ERROR:psiCalculator:transcript AT2G31751.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G31751;A5:2:13501306-13501410:13501306-13501440:-.
+ERROR:psiCalculator:transcript AT2G31751.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G31751;A5:2:13501306-13501410:13501306-13501440:-.
+ERROR:psiCalculator:transcript AT2G33051.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;A5:2:14023807-14023874:14023807-14023911:-.
+ERROR:psiCalculator:transcript AT2G33240.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33240;A5:2:14096567-14096796:14096567-14096858:-.
+ERROR:psiCalculator:transcript AT2G35637.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35637;A5:2:14983556-14983799:14983556-14983839:-.
+ERROR:psiCalculator:transcript AT3G00740.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00740;A5:3:16277868-16278184:16277686-16278184:+.
+ERROR:psiCalculator:transcript AT3G27884.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G27884;A5:3:10346441-10346704:10346441-10347225:-.
+ERROR:psiCalculator:transcript AT3G27990.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G27990;A5:3:10393200-10394000:10393200-10396681:-.
+ERROR:psiCalculator:transcript AT3G29644.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G29644;A5:3:11499687-11500667:11499687-11501159:-.
+ERROR:psiCalculator:transcript AT3G63445.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G63445;A5:3:23423821-23425267:23423821-23425993:-.
+ERROR:psiCalculator:transcript AT3G05932.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G05932_and_AT3G05935;A5:3:1771130-1771410:1771130-1772228:-.
+ERROR:psiCalculator:transcript AT3G24518.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G24517_and_AT3G24518;A5:3:8939598-8941202:8939598-8941222:-.
+ERROR:psiCalculator:transcript AT3G51075.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A5:3:18971628-18971767:18971628-18971946:-.
+ERROR:psiCalculator:transcript AT3G51075.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A5:3:18971628-18971767:18971628-18971946:-.
+ERROR:psiCalculator:transcript AT3G51075.11 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A5:3:18971628-18971767:18971628-18971946:-.
+ERROR:psiCalculator:transcript AT3G51075.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A5:3:18971628-18971767:18971628-18972030:-.
+ERROR:psiCalculator:transcript AT3G51075.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A5:3:18971628-18971767:18971628-18972030:-.
+ERROR:psiCalculator:transcript AT3G51075.11 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A5:3:18971628-18971767:18971628-18972030:-.
+ERROR:psiCalculator:transcript AT3G51075.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A5:3:18971628-18971946:18971628-18972030:-.
+ERROR:psiCalculator:transcript AT3G51075.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A5:3:18971628-18971946:18971628-18972030:-.
+ERROR:psiCalculator:transcript AT3G51075.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A5:3:18971628-18971946:18971628-18972030:-.
+ERROR:psiCalculator:transcript AT3G51075.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A5:3:18971628-18971946:18971628-18972030:-.
+ERROR:psiCalculator:transcript AT3G51075.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;A5:3:18972307-18972451:18972307-18972748:-.
+ERROR:psiCalculator:transcript AT3G52072.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G52060_and_AT3G52072_and_AT3G52075;A5:3:19313836-19314053:19313836-19314091:-.
+ERROR:psiCalculator:transcript AT3G52072.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G52060_and_AT3G52072_and_AT3G52075;A5:3:19313836-19314053:19313836-19314091:-.
+ERROR:psiCalculator:transcript AT4G05755.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G05755;A5:4:6269671-6269764:6269671-6269779:-.
+ERROR:psiCalculator:transcript AT4G06701.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G06701;A5:4:3940331-3940466:3940331-3940615:-.
+ERROR:psiCalculator:transcript AT4G06701.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G06701;A5:4:3940331-3940466:3940331-3940615:-.
+ERROR:psiCalculator:transcript AT4G06701.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G06701;A5:4:3939923-3940248:3939923-3940251:-.
+ERROR:psiCalculator:transcript AT4G28162.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G28162;A5:4:13980021-13980101:13980021-13980366:-.
+ERROR:psiCalculator:transcript AT4G37553.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G37553;A5:4:17648460-17648940:17648460-17649668:-.
+ERROR:psiCalculator:transcript AT4G39460.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G39460;A5:4:18358612-18358800:18358612-18358844:-.
+ERROR:psiCalculator:transcript AT4G03085.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A5:4:12474636-12475151:12474636-12475382:-.
+ERROR:psiCalculator:transcript AT4G03085.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A5:4:12474636-12475151:12474636-12475382:-.
+ERROR:psiCalculator:transcript AT4G03085.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A5:4:12474636-12475151:12474636-12475382:-.
+ERROR:psiCalculator:transcript AT4G03085.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;A5:4:12474636-12475151:12474636-12475382:-.
+ERROR:psiCalculator:transcript AT4G17098.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G17098;A5:4:9609180-9610017:9608656-9610017:+.
+ERROR:psiCalculator:transcript AT4G30975.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G30975;A5:4:15076610-15077028:15075398-15077028:+.
+ERROR:psiCalculator:transcript AT4G02885.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G10843_and_AT4G02885;A5:4:6666948-6667005:6666933-6667005:+.
+ERROR:psiCalculator:transcript AT5G00605.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00605;A5:5:20072897-20073116:20072897-20073197:-.
+ERROR:psiCalculator:transcript AT5G00650.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00650;A5:5:21143273-21143399:21143273-21144694:-.
+ERROR:psiCalculator:transcript AT5G06865.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G06865;A5:5:2133447-2133535:2133447-2133596:-.
+ERROR:psiCalculator:transcript AT5G48000.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G48000;A5:5:19447004-19447087:19447004-19447091:-.
+ERROR:psiCalculator:transcript AT5G60022.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G60022;A5:5:24167331-24167446:24167331-24168034:-.
+ERROR:psiCalculator:transcript AT5G65575.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G65575;A5:5:26207162-26207261:26207162-26207686:-.
+ERROR:psiCalculator:transcript AT5G00580.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00580;A5:5:17045659-17046811:17045569-17046811:+.
+ERROR:psiCalculator:transcript AT5G01675.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G01675;A5:5:3173842-3178884:3173776-3178884:+.
+ERROR:psiCalculator:transcript AT5G05435.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05435;A5:5:1607060-1607141:1606722-1607141:+.
+ERROR:psiCalculator:transcript AT5G05435.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05435;A5:5:1607060-1607141:1606722-1607141:+.
+ERROR:psiCalculator:transcript AT5G18245.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;A5:5:6028582-6028829:6028330-6028829:+.
+ERROR:psiCalculator:transcript AT5G18245.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;A5:5:6028582-6028829:6028330-6028829:+.
+ERROR:psiCalculator:transcript AT5G18255.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18255;A5:5:6036292-6036399:6035726-6036399:+.
+ERROR:psiCalculator:transcript AT5G19090.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G19090;A5:5:6387735-6387823:6387631-6387823:+.
+ERROR:psiCalculator:transcript AT5G26146.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G26146;A5:5:9137685-9137793:9136002-9137793:+.
+ERROR:psiCalculator:transcript AT5G50665.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G50665;A5:5:20613907-20614198:20613835-20614198:+.
+ERROR:psiCalculator:transcript AT5G50665.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G50665;A5:5:20613907-20614198:20613785-20614198:+.
+ERROR:psiCalculator:transcript AT5G10278.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G10278_and_AT5G01695_and_AT5G10280;A5:5:3228420-3228764:3227619-3228764:+.
+ERROR:psiCalculator:transcript AT5G00365.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G11090_and_AT5G00365;A5:5:3526010-3526112:3525987-3526112:+.
+ERROR:psiCalculator:transcript AT5G15845.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G15845_and_AT5G15853;A5:5:5173262-5173708:5173261-5173708:+.
+ERROR:psiCalculator:transcript AT5G15845.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G15845_and_AT5G15853;A5:5:5176406-5176495:5176356-5176495:+.
+ERROR:psiCalculator:transcript AT5G15845.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G15845_and_AT5G15853;A5:5:5176406-5176495:5176356-5176495:+.
+ERROR:psiCalculator:transcript AT5G45472.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G45472_and_AT5G45469_and_AT5G45475_and_AT5G45490;A5:5:18427252-18427335:18427231-18427335:+.
+ERROR:lib.tools:7386, in line 7387. Skipping line...
+ERROR:psiCalculator:transcript AT1G06833.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G06833;AF:1:12923746-12923830:12924756:12923746-12924917:12925030:-.
+ERROR:psiCalculator:transcript AT2G00630.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00630;AF:2:8013923:8014069-8014776:8014254:8014464-8014776:+.
+ERROR:psiCalculator:transcript AT2G00630.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00630;AF:2:8013923:8014069-8014776:8014254:8014464-8014776:+.
+ERROR:psiCalculator:transcript AT2G00630.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00630;AF:2:8013923:8014069-8014776:8014403:8014464-8014776:+.
+ERROR:psiCalculator:transcript AT2G00630.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00630;AF:2:8013923:8014069-8014776:8014403:8014464-8014776:+.
+ERROR:psiCalculator:transcript AT2G44798.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09545_and_AT2G44798;AF:2:18468395-18469127:18469280:18468395-18470770:18471277:-.
+ERROR:psiCalculator:transcript AT2G44798.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09545_and_AT2G44798;AF:2:18468395-18469127:18469280:18468395-18470770:18471277:-.
+ERROR:psiCalculator:transcript AT2G44798.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09545_and_AT2G44798;AF:2:18468395-18469127:18469280:18468395-18470770:18471277:-.
+ERROR:psiCalculator:transcript AT2G44798.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09545_and_AT2G44798;AF:2:18468395-18469127:18469582:18468395-18470770:18471277:-.
+ERROR:psiCalculator:transcript AT2G44798.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09545_and_AT2G44798;AF:2:18468395-18469127:18469582:18468395-18470770:18471277:-.
+ERROR:psiCalculator:transcript AT2G44798.9 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09545_and_AT2G44798;AF:2:18468395-18469127:18469582:18468395-18470770:18471277:-.
+ERROR:psiCalculator:transcript AT2G44798.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09545_and_AT2G44798;AF:2:18468395-18469127:18469265:18468395-18470770:18471277:-.
+ERROR:psiCalculator:transcript AT3G00780.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00780;AF:3:16675508:16675547-16676376:16675646:16675938-16676376:+.
+ERROR:psiCalculator:transcript AT3G00810.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00810;AF:3:17194591:17194635-17195058:17194645:17194811-17195058:+.
+ERROR:psiCalculator:transcript AT3G60930.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G60930;AF:3:22514027:22514056-22515241:22514415:22515164-22515241:+.
+ERROR:psiCalculator:transcript AT3G00850.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00850_and_AT3G48630;AF:3:18018594-18018687:18018808:18018594-18020464:18020984:-.
+ERROR:psiCalculator:transcript AT4G04221.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G04221;AF:4:2035794-2036014:2036174:2035794-2036279:2036495:-.
+ERROR:psiCalculator:transcript AT4G04221.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G04221;AF:4:2035794-2036014:2036174:2035794-2036279:2036475:-.
+ERROR:psiCalculator:transcript AT4G09805.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G09805;AF:4:18221112-18221216:18221342:18221112-18221478:18221682:-.
+ERROR:psiCalculator:transcript AT4G02885.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G10843_and_AT4G02885;AF:4:6664431:6664511-6665633:6665151:6665555-6665633:+.
+ERROR:psiCalculator:transcript AT5G00580.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00580;AF:5:17045300:17045659-17046811:17045858:17046250-17046811:+.
+ERROR:psiCalculator:transcript AT5G00580.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00580;AF:5:17045322:17045569-17046811:17045858:17046250-17046811:+.
+ERROR:psiCalculator:transcript AT5G43725.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G43725_and_AT5G43730;AF:5:17559545:17559772-17563867:17560179:17562929-17563867:+.
+ERROR:psiCalculator:transcript AT5G43725.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G43725_and_AT5G43730;AF:5:17559545:17559772-17563867:17560267:17563525-17563867:+.
+ERROR:lib.tools:8328, in line 8329. Skipping line...
+ERROR:psiCalculator:transcript AT1G08795.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G08795;AL:1:448071-448157:448179:448071-448223:448257:+.
+ERROR:psiCalculator:transcript AT1G08895.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G08895;AL:1:4583812-4584229:4584348:4583812-4585396:4585625:+.
+ERROR:psiCalculator:transcript AT1G25098.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G25098_and_AT1G25112;AL:1:8813245-8813920:8814461:8813245-8814734:8815264:+.
+ERROR:psiCalculator:transcript AT1G33615.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;AL:1:12192651:12192836-12193200:12193047:12193098-12193200:-.
+ERROR:psiCalculator:transcript AT2G00580.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00580;AL:2:6219571-6219702:6219897:6219571-6219914:6220347:+.
+ERROR:psiCalculator:transcript AT2G21187.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G21187;AL:2:9076874-9076946:9077217:9076874-9077236:9077468:+.
+ERROR:psiCalculator:transcript AT2G00400.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00400;AL:2:1777807:1778099-1778872:1778163:1778485-1778872:-.
+ERROR:psiCalculator:transcript AT2G00400.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00400;AL:2:1777807:1778099-1778872:1778239:1778471-1778872:-.
+ERROR:psiCalculator:transcript AT2G00790.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00790;AL:2:10434563:10434764-10435654:10434770:10434816-10435654:-.
+ERROR:psiCalculator:transcript AT2G24755.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G24755;AL:2:10541738:10542006-10547440:10542465:10545681-10547440:-.
+ERROR:psiCalculator:transcript AT2G42365.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G42365;AL:2:17640787:17641579-17641912:17641582:17641602-17641912:-.
+ERROR:psiCalculator:transcript AT3G00600.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00600;AL:3:11818288-11818679:11818842:11818288-11818883:11818988:+.
+ERROR:psiCalculator:transcript AT3G06125.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G06125;AL:3:1849036-1849141:1849332:1849036-1850238:1850596:+.
+ERROR:psiCalculator:transcript AT3G54625.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G54625;AL:3:20220919-20221182:20221202:20220919-20221245:20223024:+.
+ERROR:psiCalculator:transcript AT3G44470.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G44470;AL:3:16084755:16084962-16085937:16085842:16085850-16085937:-.
+ERROR:psiCalculator:transcript AT3G59765.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G59765;AL:3:22075815:22076116-22077662:22076387:22076853-22077662:-.
+ERROR:psiCalculator:transcript AT3G59765.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G59765;AL:3:22075815:22076116-22077662:22076463:22076853-22077662:-.
+ERROR:psiCalculator:transcript AT3G05932.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G05932_and_AT3G05935;AL:3:1770353:1771130-1772228:1771503:1771533-1772228:-.
+ERROR:psiCalculator:transcript AT4G03465.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03465;AL:4:17820010:17820349-17820533:17820420:17820440-17820533:-.
+ERROR:psiCalculator:transcript AT5G04875.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G04875_and_AT5G28890;AL:5:10903450:10903537-10905158:10904733:10904759-10905158:-.
+ERROR:psiCalculator:transcript AT5G01675.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G01675;AL:5:3173510-3173720:3173996:3173510-3179084:3179600:+.
+ERROR:psiCalculator:transcript AT5G05115.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05115;AL:5:12913941-12914216:12914557:12913941-12914893:12915351:+.
+ERROR:psiCalculator:transcript AT5G43725.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G43725_and_AT5G43730;AL:5:17559772-17559886:17560062:17559772-17563867:17564223:+.
+ERROR:lib.tools:8446, in line 8447. Skipping line...
+ERROR:lib.tools:8477, in line 8478. Skipping line...
+ERROR:psiCalculator:transcript AT1G01448.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G01448;RI:1:165449:165656-165769:166353:+.
+ERROR:psiCalculator:transcript AT1G07728.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G07728;RI:1:2394985:2396434-2396529:2397399:+.
+ERROR:psiCalculator:transcript AT1G08087.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G08087;RI:1:20948161:20948735-20948825:20948969:+.
+ERROR:psiCalculator:transcript AT1G08965.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G08965;RI:1:8154901:8155122-8155276:8155476:+.
+ERROR:psiCalculator:transcript AT1G09765.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09765;RI:1:24298705:24299090-24299226:24299559:+.
+ERROR:psiCalculator:transcript AT1G09765.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09765;RI:1:24298705:24298970-24299226:24299559:+.
+ERROR:psiCalculator:transcript AT1G09863.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09863;RI:1:29907708:29907759-29908423:29909325:+.
+ERROR:psiCalculator:transcript AT1G09863.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09863;RI:1:29907708:29908894-29908998:29909325:+.
+ERROR:psiCalculator:transcript AT1G09863.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09863;RI:1:29907250:29907330-29907708:29908894:+.
+ERROR:psiCalculator:transcript AT1G30520.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G30520;RI:1:10812666:10813051-10813120:10813322:+.
+ERROR:psiCalculator:transcript AT1G34844.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G34844;RI:1:12751758:12752025-12752118:12752280:+.
+ERROR:psiCalculator:transcript AT1G34844.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G34844;RI:1:12751758:12752280-12752367:12752796:+.
+ERROR:psiCalculator:transcript AT1G51645.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G51645;RI:1:19150248:19151040-19151140:19152074:+.
+ERROR:psiCalculator:transcript AT1G53890.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G53890;RI:1:20125266:20125547-20125630:20125805:+.
+ERROR:psiCalculator:transcript AT1G53890.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G53890;RI:1:20125266:20125805-20125899:20126525:+.
+ERROR:psiCalculator:transcript AT1G59124.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G59124;RI:1:21818022:21819547-21819636:21820839:+.
+ERROR:psiCalculator:transcript AT1G60545.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G60545;RI:1:22302306:22303894-22303964:22304128:+.
+ERROR:psiCalculator:transcript AT1G60545.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G60545;RI:1:22302306:22303894-22303979:22304128:+.
+ERROR:psiCalculator:transcript AT1G67792.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G67792;RI:1:25417378:25418000-25418098:25420252:+.
+ERROR:psiCalculator:transcript AT1G67792.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G67792;RI:1:25417378:25419294-25419491:25420252:+.
+ERROR:psiCalculator:transcript AT1G72855.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G72855;RI:1:27416525:27417724-27417841:27419122:+.
+ERROR:psiCalculator:transcript AT1G72855.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G72855;RI:1:27416525:27417004-27417071:27419122:+.
+ERROR:psiCalculator:transcript AT1G07119.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G07119_and_AT1G04563_and_AT1G07130;RI:1:2185391:2185436-2186103:2186349:+.
+ERROR:psiCalculator:transcript AT1G07119.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G07119_and_AT1G04563_and_AT1G07130;RI:1:2186103:2186349-2186500:2186573:+.
+ERROR:psiCalculator:transcript AT1G16489.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G05227_and_AT1G16489;RI:1:5629982:5630118-5630227:5630314:+.
+ERROR:psiCalculator:transcript AT1G25098.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G25098_and_AT1G25112;RI:1:8813192:8813245-8813920:8814461:+.
+ERROR:psiCalculator:transcript AT1G25175.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G25175_and_AT1G25180;RI:1:8827570:8828544-8829112:8829682:+.
+ERROR:psiCalculator:transcript AT1G25175.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G25175_and_AT1G25180;RI:1:8827570:8827623-8829112:8829682:+.
+ERROR:psiCalculator:transcript AT1G25175.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G25175_and_AT1G25180;RI:1:8827570:8827623-8828298:8828544:+.
+ERROR:psiCalculator:transcript AT1G09023.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09023_and_AT1G68935_and_AT1G68937;RI:1:25923660:25923744-25923829:25926170:+.
+ERROR:psiCalculator:transcript AT1G09023.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09023_and_AT1G68935_and_AT1G68937;RI:1:25923660:25923744-25923829:25926170:+.
+ERROR:psiCalculator:transcript AT1G09023.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09023_and_AT1G68935_and_AT1G68937;RI:1:25922423:25922530-25922670:25923554:+.
+ERROR:psiCalculator:transcript AT1G04643.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G04643;RI:1:2538664:2539064-2539113:2539548:-.
+ERROR:psiCalculator:transcript AT1G06833.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G06833;RI:1:12922838:12923488-12923608:12923746:-.
+ERROR:psiCalculator:transcript AT1G06833.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G06833;RI:1:12923830:12923887-12924016:12924269:-.
+ERROR:psiCalculator:transcript AT1G06833.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G06833;RI:1:12923830:12923887-12924016:12924756:-.
+ERROR:psiCalculator:transcript AT1G08197.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G08197;RI:1:21530888:21531332-21531448:21531588:-.
+ERROR:psiCalculator:transcript AT1G09005.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09005;RI:1:9829709:9830228-9831376:9831594:-.
+ERROR:psiCalculator:transcript AT1G09035.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09035;RI:1:9937898:9938205-9938449:9938673:-.
+ERROR:psiCalculator:transcript AT1G09065.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09065;RI:1:10213788:10213977-10214129:10214349:-.
+ERROR:psiCalculator:transcript AT1G09595.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09595;RI:1:18394201:18394444-18394576:18394853:-.
+ERROR:psiCalculator:transcript AT1G09845.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09845;RI:1:26208684:26209780-26210475:26210617:-.
+ERROR:psiCalculator:transcript AT1G11592.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G11592;RI:1:3895935:3896090-3896212:3896261:-.
+ERROR:psiCalculator:transcript AT1G18415.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G18415;RI:1:6342940:6343851-6343950:6344692:-.
+ERROR:psiCalculator:transcript AT1G18415.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G18415;RI:1:6344772:6345051-6345240:6345787:-.
+ERROR:psiCalculator:transcript AT1G27921.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G27921;RI:1:9728759:9729134-9729434:9729487:-.
+ERROR:psiCalculator:transcript AT1G27921.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G27921;RI:1:9728759:9729134-9729434:9729487:-.
+ERROR:psiCalculator:transcript AT1G27921.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G27921;RI:1:9728759:9729134-9729434:9729487:-.
+ERROR:psiCalculator:transcript AT1G27921.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G27921;RI:1:9729600:9729747-9729856:9729979:-.
+ERROR:psiCalculator:transcript AT1G44125.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16783004:16783921-16784148:16786828:-.
+ERROR:psiCalculator:transcript AT1G44125.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16783004:16783600-16783691:16783921:-.
+ERROR:psiCalculator:transcript AT1G44125.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16783004:16783600-16783691:16783921:-.
+ERROR:psiCalculator:transcript AT1G44125.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16783004:16783197-16783483:16783921:-.
+ERROR:psiCalculator:transcript AT1G44125.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16783004:16783197-16783483:16783921:-.
+ERROR:psiCalculator:transcript AT1G44125.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16783004:16783197-16783691:16783921:-.
+ERROR:psiCalculator:transcript AT1G44125.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16783004:16783197-16783691:16783921:-.
+ERROR:psiCalculator:transcript AT1G44125.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16784148:16786291-16786375:16786828:-.
+ERROR:psiCalculator:transcript AT1G44125.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16784148:16786291-16786375:16786828:-.
+ERROR:psiCalculator:transcript AT1G44125.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16784148:16786291-16786375:16786828:-.
+ERROR:psiCalculator:transcript AT1G44125.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16784148:16786291-16786375:16786828:-.
+ERROR:psiCalculator:transcript AT1G44125.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G44125;RI:1:16783004:16783921-16784148:16786291:-.
+ERROR:psiCalculator:transcript AT1G56612.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G56612;RI:1:21214720:21214789-21215107:21215407:-.
+ERROR:psiCalculator:transcript AT1G60525.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G60525;RI:1:22299435:22300267-22300662:22300999:-.
+ERROR:psiCalculator:transcript AT1G68872.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G68872;RI:1:25890248:25890981-25891170:25891345:-.
+ERROR:psiCalculator:transcript AT1G68872.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G68872;RI:1:25890248:25890981-25891170:25891345:-.
+ERROR:psiCalculator:transcript AT1G68872.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G68872;RI:1:25890248:25890326-25891170:25891345:-.
+ERROR:psiCalculator:transcript AT1G68872.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G68872;RI:1:25890248:25890326-25891170:25891345:-.
+ERROR:psiCalculator:transcript AT1G75295.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G75295;RI:1:28256490:28256642-28256716:28256877:-.
+ERROR:psiCalculator:transcript AT1G75295.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G75295;RI:1:28256490:28256642-28256716:28256877:-.
+ERROR:psiCalculator:transcript AT1G75295.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G75295;RI:1:28255108:28255966-28256055:28256323:-.
+ERROR:psiCalculator:transcript AT1G26208.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G26208_and_AT1G26218_and_AT1G26230;RI:1:9069033:9069092-9069236:9069344:-.
+ERROR:psiCalculator:transcript AT1G26208.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G26208_and_AT1G26218_and_AT1G26230;RI:1:9069033:9069092-9069236:9069344:-.
+ERROR:psiCalculator:transcript AT1G26208.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G26208_and_AT1G26218_and_AT1G26230;RI:1:9065955:9067301-9067488:9067841:-.
+ERROR:psiCalculator:transcript AT1G33615.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;RI:1:12193812:12194261-12194351:12194413:-.
+ERROR:psiCalculator:transcript AT1G33615.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;RI:1:12193812:12194261-12194351:12194413:-.
+ERROR:psiCalculator:transcript AT1G33615.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;RI:1:12195268:12195478-12195594:12195639:-.
+ERROR:psiCalculator:transcript AT1G33615.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;RI:1:12195268:12195478-12195594:12195639:-.
+ERROR:psiCalculator:transcript AT1G33615.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;RI:1:12195268:12195478-12195594:12195639:-.
+ERROR:psiCalculator:transcript AT1G33615.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;RI:1:12195268:12195478-12195566:12195639:-.
+ERROR:psiCalculator:transcript AT1G33615.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;RI:1:12195268:12195478-12195566:12195639:-.
+ERROR:psiCalculator:transcript AT1G33615.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;RI:1:12195268:12195478-12195566:12195639:-.
+ERROR:psiCalculator:transcript AT1G33615.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;RI:1:12193812:12193938-12194173:12194261:-.
+ERROR:psiCalculator:transcript AT1G33615.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G33615_and_AT1G06683_and_AT1G33640;RI:1:12194686:12194754-12195268:12195639:-.
+ERROR:psiCalculator:transcript AT1G09185.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;RI:1:12380916:12381994-12382117:12382151:-.
+ERROR:psiCalculator:transcript AT1G09185.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;RI:1:12380916:12381994-12382117:12382151:-.
+ERROR:psiCalculator:transcript AT1G09185.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;RI:1:12380916:12381994-12382117:12382151:-.
+ERROR:psiCalculator:transcript AT1G09185.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;RI:1:12382762:12383257-12383352:12383494:-.
+ERROR:psiCalculator:transcript AT1G09185.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;RI:1:12382762:12383257-12383352:12383494:-.
+ERROR:psiCalculator:transcript AT1G09185.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09185_and_AT1G06737;RI:1:12382762:12383257-12383352:12383494:-.
+ERROR:psiCalculator:transcript AT1G08043.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G08043_and_AT1G55270;RI:1:20617324:20617859-20618150:20618241:-.
+ERROR:psiCalculator:transcript AT2G00600.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00600;RI:2:6523602:6523900-6524014:6524060:+.
+ERROR:psiCalculator:transcript AT2G00600.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00600;RI:2:6524169:6524351-6524844:6524932:+.
+ERROR:psiCalculator:transcript AT2G00600.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00600;RI:2:6524169:6524351-6524775:6524932:+.
+ERROR:psiCalculator:transcript AT2G00600.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00600;RI:2:6524169:6524351-6524847:6524932:+.
+ERROR:psiCalculator:transcript AT2G00600.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00600;RI:2:6523646:6523895-6524014:6524060:+.
+ERROR:psiCalculator:transcript AT2G00600.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00600;RI:2:6523646:6523895-6524014:6524060:+.
+ERROR:psiCalculator:transcript AT2G00660.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00660;RI:2:8590655:8590898-8591221:8591624:+.
+ERROR:psiCalculator:transcript AT2G00900.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00900;RI:2:17753591:17753737-17753848:17754147:+.
+ERROR:psiCalculator:transcript AT2G01422.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G01422;RI:2:183940:184205-184468:184734:+.
+ERROR:psiCalculator:transcript AT2G09855.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09855;RI:2:19422688:19422942-19423033:19423388:+.
+ERROR:psiCalculator:transcript AT2G16140.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G16140;RI:2:7005328:7005629-7005811:7005934:+.
+ERROR:psiCalculator:transcript AT2G16140.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G16140;RI:2:7005328:7005934-7007909:7008239:+.
+ERROR:psiCalculator:transcript AT2G30945.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G30945;RI:2:13173143:13173229-13173700:13173983:+.
+ERROR:psiCalculator:transcript AT2G35738.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35738;RI:2:15024599:15025789-15025970:15026809:+.
+ERROR:psiCalculator:transcript AT2G35738.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35738;RI:2:15024599:15025789-15025970:15026809:+.
+ERROR:psiCalculator:transcript AT2G35738.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35738;RI:2:15024599:15024958-15025121:15026809:+.
+ERROR:psiCalculator:transcript AT2G35738.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35738;RI:2:15024599:15024958-15025121:15026809:+.
+ERROR:psiCalculator:transcript AT2G35738.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G35738;RI:2:15024477:15025789-15025970:15026809:+.
+ERROR:psiCalculator:transcript AT2G00640.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00640_and_AT2G07235;RI:2:8446848:8447219-8447785:8448080:+.
+ERROR:psiCalculator:transcript AT2G00530.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00530;RI:2:3799320:3799406-3799492:3799576:-.
+ERROR:psiCalculator:transcript AT2G00620.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00620;RI:2:7193784:7194199-7194315:7194354:-.
+ERROR:psiCalculator:transcript AT2G00750.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00750;RI:2:9711092:9711567-9711765:9711918:-.
+ERROR:psiCalculator:transcript AT2G00930.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00930;RI:2:18797826:18798462-18799050:18799168:-.
+ERROR:psiCalculator:transcript AT2G04852.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G04852;RI:2:1705716:1705798-1706420:1706465:-.
+ERROR:psiCalculator:transcript AT2G04852.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G04852;RI:2:1705148:1705618-1705716:1706465:-.
+ERROR:psiCalculator:transcript AT2G05914.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G05914;RI:2:2263124:2263770-2263914:2264543:-.
+ERROR:psiCalculator:transcript AT2G09795.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09795;RI:2:3669906:3672125-3672206:3672766:-.
+ERROR:psiCalculator:transcript AT2G23040.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G23040;RI:2:9809338:9809408-9809649:9809694:-.
+ERROR:psiCalculator:transcript AT2G23040.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G23040;RI:2:9809338:9809694-9809793:9810073:-.
+ERROR:psiCalculator:transcript AT2G23040.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G23040;RI:2:9809183:9809255-9809338:9809408:-.
+ERROR:psiCalculator:transcript AT2G31751.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G31751;RI:2:13501260:13501306-13501410:13502275:-.
+ERROR:psiCalculator:transcript AT2G31751.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G31751;RI:2:13501260:13501306-13501410:13502275:-.
+ERROR:psiCalculator:transcript AT2G33051.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;RI:2:14023645:14023807-14023874:14024212:-.
+ERROR:psiCalculator:transcript AT2G33051.9 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33051;RI:2:14023645:14023807-14023874:14024212:-.
+ERROR:psiCalculator:transcript AT2G33240.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G33240;RI:2:14089959:14090008-14090072:14090161:-.
+ERROR:psiCalculator:transcript AT2G42365.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G42365;RI:2:17642500:17642527-17642635:17643175:-.
+ERROR:psiCalculator:transcript AT2G42365.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G42365;RI:2:17640787:17641579-17641912:17642099:-.
+ERROR:psiCalculator:transcript AT2G42835.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G42835;RI:2:17824326:17824500-17824581:17824842:-.
+ERROR:psiCalculator:transcript AT2G44798.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09545_and_AT2G44798;RI:2:18466067:18466525-18466643:18466674:-.
+ERROR:psiCalculator:transcript AT2G44798.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09545_and_AT2G44798;RI:2:18467673:18467841-18468076:18468395:-.
+ERROR:psiCalculator:transcript AT2G44798.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G09545_and_AT2G44798;RI:2:18467673:18467841-18468076:18468395:-.
+ERROR:psiCalculator:transcript AT2G46572.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G46572_and_AT2G46567;RI:2:19126172:19126962-19127154:19127215:-.
+ERROR:psiCalculator:transcript AT2G46572.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G46572_and_AT2G46567;RI:2:19127956:19128163-19128260:19129105:-.
+ERROR:psiCalculator:transcript AT3G00170.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00170;RI:3:872185:872347-872907:873526:+.
+ERROR:psiCalculator:transcript AT3G00390.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00390;RI:3:7521906:7522058-7522148:7522607:+.
+ERROR:psiCalculator:transcript AT3G00390.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00390;RI:3:7521943:7522058-7522148:7522183:+.
+ERROR:psiCalculator:transcript AT3G00740.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00740;RI:3:16277504:16277686-16278184:16278903:+.
+ERROR:psiCalculator:transcript AT3G00740.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00740;RI:3:16277504:16278330-16278622:16278903:+.
+ERROR:psiCalculator:transcript AT3G00740.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00740;RI:3:16277504:16277868-16278184:16278903:+.
+ERROR:psiCalculator:transcript AT3G00770.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00770;RI:3:16647645:16647698-16648325:16648463:+.
+ERROR:psiCalculator:transcript AT3G00770.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00770;RI:3:16647645:16647698-16648180:16648463:+.
+ERROR:psiCalculator:transcript AT3G17185.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G17185;RI:3:5861491:5861605-5861998:5862437:+.
+ERROR:psiCalculator:transcript AT3G18362.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G18362;RI:3:6303249:6303320-6303422:6303548:+.
+ERROR:psiCalculator:transcript AT3G46658.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G46658;RI:3:17189303:17189845-17190004:17191349:+.
+ERROR:psiCalculator:transcript AT3G00470.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00470_and_AT3G05395;RI:3:10482674:10483392-10483490:10483683:+.
+ERROR:psiCalculator:transcript AT3G09745.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G62080_and_AT3G09745;RI:3:22988627:22989030-22989180:22989484:+.
+ERROR:psiCalculator:transcript AT3G09745.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G62080_and_AT3G09745;RI:3:22988627:22989030-22989180:22989484:+.
+ERROR:psiCalculator:transcript AT3G09745.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G62080_and_AT3G09745;RI:3:22989938:22990167-22990294:22990967:+.
+ERROR:psiCalculator:transcript AT3G00400.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00400;RI:3:7851862:7852084-7852212:7852341:-.
+ERROR:psiCalculator:transcript AT3G00820.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G00820;RI:3:17331174:17331565-17331676:17331772:-.
+ERROR:psiCalculator:transcript AT3G03702.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G03702;RI:3:916306:917358-917852:917961:-.
+ERROR:psiCalculator:transcript AT3G03702.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G03702;RI:3:916306:917358-917852:917961:-.
+ERROR:psiCalculator:transcript AT3G03702.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G03702;RI:3:916306:917961-918110:918887:-.
+ERROR:psiCalculator:transcript AT3G07445.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G07445;RI:3:17168399:17168497-17168572:17168616:-.
+ERROR:psiCalculator:transcript AT3G07445.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G07445;RI:3:17168399:17168497-17168572:17168616:-.
+ERROR:psiCalculator:transcript AT3G21755.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G21755;RI:3:7666298:7666946-7667124:7669480:-.
+ERROR:psiCalculator:transcript AT3G21755.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G21755;RI:3:7666298:7667043-7667124:7669480:-.
+ERROR:psiCalculator:transcript AT3G21755.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G21755;RI:3:7666298:7666791-7666913:7666946:-.
+ERROR:psiCalculator:transcript AT3G27990.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G27990;RI:3:10393013:10393200-10394000:10396736:-.
+ERROR:psiCalculator:transcript AT3G27990.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G27990;RI:3:10393013:10395718-10396681:10396736:-.
+ERROR:psiCalculator:transcript AT3G27990.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G27990;RI:3:10393013:10393200-10396681:10396736:-.
+ERROR:psiCalculator:transcript AT3G29644.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G29644;RI:3:11500667:11500727-11501159:11501419:-.
+ERROR:psiCalculator:transcript AT3G29644.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G29644;RI:3:11500667:11500771-11501159:11501419:-.
+ERROR:psiCalculator:transcript AT3G06505.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G06505_and_AT3G06515;RI:3:15079929:15080204-15080400:15080692:-.
+ERROR:psiCalculator:transcript AT3G06505.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G06505_and_AT3G06515;RI:3:15079929:15080204-15080400:15080692:-.
+ERROR:psiCalculator:transcript AT3G51075.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18968654:18969368-18970305:18970355:-.
+ERROR:psiCalculator:transcript AT3G51075.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18968654:18969368-18970305:18970355:-.
+ERROR:psiCalculator:transcript AT3G51075.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970448:18971024-18971129:18971279:-.
+ERROR:psiCalculator:transcript AT3G51075.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970448:18971024-18971129:18971279:-.
+ERROR:psiCalculator:transcript AT3G51075.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970448:18971024-18971129:18971279:-.
+ERROR:psiCalculator:transcript AT3G51075.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970448:18970649-18970747:18971279:-.
+ERROR:psiCalculator:transcript AT3G51075.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970448:18970649-18970747:18971279:-.
+ERROR:psiCalculator:transcript AT3G51075.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970448:18970649-18970747:18971279:-.
+ERROR:psiCalculator:transcript AT3G51075.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970448:18970649-18970747:18971024:-.
+ERROR:psiCalculator:transcript AT3G51075.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970448:18970649-18970747:18971024:-.
+ERROR:psiCalculator:transcript AT3G51075.11 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970448:18970649-18970747:18971024:-.
+ERROR:psiCalculator:transcript AT3G51075.12 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970448:18970649-18970747:18971024:-.
+ERROR:psiCalculator:transcript AT3G51075.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18971946:18972307-18972748:18972835:-.
+ERROR:psiCalculator:transcript AT3G51075.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18971946:18972307-18972748:18972835:-.
+ERROR:psiCalculator:transcript AT3G51075.9 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970448:18972307-18972451:18972824:-.
+ERROR:psiCalculator:transcript AT3G51075.10 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18971491:18971828-18971946:18972307:-.
+ERROR:psiCalculator:transcript AT3G51075.10 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18971491:18971628-18971767:18972307:-.
+ERROR:psiCalculator:transcript AT3G51075.10 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18971491:18971628-18971946:18972307:-.
+ERROR:psiCalculator:transcript AT3G51075.13 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;RI:3:18970747:18971024-18971129:18971279:-.
+ERROR:psiCalculator:transcript AT4G02005.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G02005;RI:4:878466:878510-878579:878628:-.
+ERROR:psiCalculator:transcript AT4G02005.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G02005;RI:4:876908:878510-878579:878628:-.
+ERROR:psiCalculator:transcript AT4G02815.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G02815;RI:4:1875420:1875551-1875910:1876856:-.
+ERROR:psiCalculator:transcript AT4G02815.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G02815;RI:4:1875420:1876037-1876131:1876856:-.
+ERROR:psiCalculator:transcript AT4G02815.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G02815;RI:4:1875420:1876195-1876343:1876856:-.
+ERROR:psiCalculator:transcript AT4G03015.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03015;RI:4:10592572:10593304-10593442:10593496:-.
+ERROR:psiCalculator:transcript AT4G03015.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03015;RI:4:10592572:10593344-10593442:10593496:-.
+ERROR:psiCalculator:transcript AT4G03015.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03015;RI:4:10592572:10593289-10593442:10593496:-.
+ERROR:psiCalculator:transcript AT4G03425.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03425;RI:4:17789097:17789266-17789357:17789512:-.
+ERROR:psiCalculator:transcript AT4G04221.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G04221;RI:4:2034088:2035794-2036279:2036495:-.
+ERROR:psiCalculator:transcript AT4G04221.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G04221;RI:4:2034088:2035321-2035437:2036495:-.
+ERROR:psiCalculator:transcript AT4G04221.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G04221;RI:4:2034088:2035321-2035437:2035794:-.
+ERROR:psiCalculator:transcript AT4G04221.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G04221;RI:4:2034088:2035321-2035437:2035794:-.
+ERROR:psiCalculator:transcript AT4G09432.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G09432;RI:4:5972915:5974749-5974829:5975195:-.
+ERROR:psiCalculator:transcript AT4G26795.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G26795;RI:4:13487330:13487630-13487755:13488868:-.
+ERROR:psiCalculator:transcript AT4G26795.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G26795;RI:4:13487330:13488192-13488444:13488868:-.
+ERROR:psiCalculator:transcript AT4G26795.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G26795;RI:4:13487755:13488364-13488444:13488868:-.
+ERROR:psiCalculator:transcript AT4G26795.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G26795;RI:4:13487755:13488192-13488444:13488868:-.
+ERROR:psiCalculator:transcript AT4G31408.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G31408;RI:4:15241687:15242754-15242866:15242987:-.
+ERROR:psiCalculator:transcript AT4G37432.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G37432;RI:4:17596973:17597776-17598188:17598929:-.
+ERROR:psiCalculator:transcript AT4G03085.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;RI:4:12473489:12473686-12473993:12474134:-.
+ERROR:psiCalculator:transcript AT4G03085.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;RI:4:12475151:12475300-12475382:12475501:-.
+ERROR:psiCalculator:transcript AT4G03085.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;RI:4:12473506:12473726-12473993:12474134:-.
+ERROR:psiCalculator:transcript AT4G01593.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G01593;RI:4:691005:691478-691631:691897:+.
+ERROR:psiCalculator:transcript AT4G03005.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03005;RI:4:10268566:10268646-10268883:10269143:+.
+ERROR:psiCalculator:transcript AT4G06180.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G06180;RI:4:8157368:8157447-8157550:8157629:+.
+ERROR:psiCalculator:transcript AT4G06430.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G06430;RI:4:9497687:9498178-9498374:9498624:+.
+ERROR:psiCalculator:transcript AT4G07405.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G07405;RI:4:13027581:13027892-13028072:13028194:+.
+ERROR:psiCalculator:transcript AT4G07405.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G07405;RI:4:13027581:13027892-13027997:13028194:+.
+ERROR:psiCalculator:transcript AT4G17098.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G17098;RI:4:9608633:9609003-9609089:9609180:+.
+ERROR:psiCalculator:transcript AT4G36052.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G36052;RI:4:17052654:17053150-17053173:17053499:+.
+ERROR:psiCalculator:transcript AT4G02885.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G10843_and_AT4G02885;RI:4:6665858:6666001-6666091:6666145:+.
+ERROR:psiCalculator:transcript AT4G02885.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G10843_and_AT4G02885;RI:4:6665858:6666001-6666091:6666145:+.
+ERROR:psiCalculator:transcript AT4G02885.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G10843_and_AT4G02885;RI:4:6667567:6667616-6667729:6667927:+.
+ERROR:psiCalculator:transcript AT4G02885.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G10843_and_AT4G02885;RI:4:6667567:6667616-6667729:6667927:+.
+ERROR:psiCalculator:transcript AT4G02885.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G10843_and_AT4G02885;RI:4:6667005:6667142-6667236:6667284:+.
+ERROR:psiCalculator:transcript AT4G26582.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G07665_and_AT4G26582;RI:4:13414092:13415107-13415276:13416178:+.
+ERROR:psiCalculator:transcript AT4G03365.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03365_and_AT4G08915;RI:4:16321844:16321986-16322123:16322341:+.
+ERROR:psiCalculator:transcript AT5G00420.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00420;RI:5:6663547:6664117-6664310:6664440:-.
+ERROR:psiCalculator:transcript AT5G00495.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00495;RI:5:10277178:10277371-10277827:10277953:-.
+ERROR:psiCalculator:transcript AT5G00645.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00645;RI:5:20885004:20885110-20885191:20885374:-.
+ERROR:psiCalculator:transcript AT5G00650.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00650;RI:5:21143032:21143273-21143399:21144831:-.
+ERROR:psiCalculator:transcript AT5G00715.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00715;RI:5:26146592:26147142-26147579:26147737:-.
+ERROR:psiCalculator:transcript AT5G00875.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00875;RI:5:624122:624504-624599:624785:-.
+ERROR:psiCalculator:transcript AT5G01215.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G01215;RI:5:84466:85261-85357:86258:-.
+ERROR:psiCalculator:transcript AT5G05345.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05345;RI:5:14588599:14589017-14589293:14589635:-.
+ERROR:psiCalculator:transcript AT5G10965.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G10965;RI:5:3468635:3468903-3469014:3470424:-.
+ERROR:psiCalculator:transcript AT5G10965.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G10965;RI:5:3468635:3469134-3469238:3470196:-.
+ERROR:psiCalculator:transcript AT5G10965.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G10965;RI:5:3468635:3468903-3469014:3469134:-.
+ERROR:psiCalculator:transcript AT5G12290.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G12290;RI:5:3974644:3974744-3974862:3974972:-.
+ERROR:psiCalculator:transcript AT5G36002.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G36002;RI:5:14141795:14141949-14142044:14142755:-.
+ERROR:psiCalculator:transcript AT5G36002.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G36002;RI:5:14141795:14142709-14143016:14143303:-.
+ERROR:psiCalculator:transcript AT5G66558.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G66558;RI:5:26563998:26564383-26564531:26566847:-.
+ERROR:psiCalculator:transcript AT5G00610.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00610_and_AT5G07395;RI:5:20094898:20095666-20095864:20095939:-.
+ERROR:psiCalculator:transcript AT5G00615.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G49690_and_AT5G00615;RI:5:20192203:20192321-20192410:20192507:-.
+ERROR:psiCalculator:transcript AT5G09175.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G09175_and_AT5G64010;RI:5:25617179:25618113-25618306:25618474:-.
+ERROR:psiCalculator:transcript AT5G09175.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G09175_and_AT5G64010;RI:5:25617179:25617701-25617988:25618113:-.
+ERROR:psiCalculator:transcript AT5G00580.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00580;RI:5:17045322:17045569-17046811:17047198:+.
+ERROR:psiCalculator:transcript AT5G00655.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00655;RI:5:21513786:21513833-21513936:21514356:+.
+ERROR:psiCalculator:transcript AT5G01175.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G01175;RI:5:60208:60437-60917:61214:+.
+ERROR:psiCalculator:transcript AT5G05435.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05435;RI:5:1607141:1607311-1607415:1607704:+.
+ERROR:psiCalculator:transcript AT5G05435.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05435;RI:5:1607141:1607311-1607415:1607673:+.
+ERROR:psiCalculator:transcript AT5G05435.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05435;RI:5:1606960:1607060-1607141:1607311:+.
+ERROR:psiCalculator:transcript AT5G18245.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;RI:5:6029602:6030228-6030357:6030596:+.
+ERROR:psiCalculator:transcript AT5G18245.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;RI:5:6029602:6030228-6030357:6030596:+.
+ERROR:psiCalculator:transcript AT5G18245.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;RI:5:6029602:6029684-6029822:6030596:+.
+ERROR:psiCalculator:transcript AT5G18245.7 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;RI:5:6029602:6029684-6029822:6030596:+.
+ERROR:psiCalculator:transcript AT5G18245.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;RI:5:6029822:6030228-6030357:6030596:+.
+ERROR:psiCalculator:transcript AT5G18245.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;RI:5:6029822:6030228-6030357:6030596:+.
+ERROR:psiCalculator:transcript AT5G18245.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;RI:5:6028151:6028582-6028829:6029282:+.
+ERROR:psiCalculator:transcript AT5G18245.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;RI:5:6028151:6028330-6028829:6029282:+.
+ERROR:psiCalculator:transcript AT5G18245.8 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18245;RI:5:6029602:6029684-6029822:6030228:+.
+ERROR:psiCalculator:transcript AT5G26146.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G26146;RI:5:9135925:9136002-9137793:9139579:+.
+ERROR:psiCalculator:transcript AT5G26146.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G26146;RI:5:9135925:9137685-9137793:9139579:+.
+ERROR:psiCalculator:transcript AT5G48775.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G48775;RI:5:19772844:19773121-19773316:19775661:+.
+ERROR:psiCalculator:transcript AT5G50665.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G50665;RI:5:20613506:20613907-20614198:20614300:+.
+ERROR:psiCalculator:transcript AT5G50665.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G50665;RI:5:20613541:20613785-20614198:20614300:+.
+ERROR:psiCalculator:transcript AT5G50690.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G50690;RI:5:20622267:20622395-20622462:20622832:+.
+ERROR:psiCalculator:transcript AT5G54569.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G54569;RI:5:22168982:22169191-22170056:22170610:+.
+ERROR:psiCalculator:transcript AT5G54569.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G54569;RI:5:22168982:22169191-22170056:22170610:+.
+ERROR:psiCalculator:transcript AT5G54569.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G54569;RI:5:22167273:22167466-22167687:22167988:+.
+ERROR:psiCalculator:transcript AT5G15845.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G15845_and_AT5G15853;RI:5:5175201:5176356-5176495:5177922:+.
+ERROR:psiCalculator:transcript AT5G15845.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G15845_and_AT5G15853;RI:5:5175201:5176406-5176495:5177922:+.
+ERROR:psiCalculator:transcript AT5G00445.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G03485_and_AT5G22796_and_AT5G03515_and_AT5G22799_and_AT5G00445;RI:5:7614371:7614650-7614755:7615206:+.
+ERROR:psiCalculator:transcript AT5G05145.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05145_and_AT5G05135;RI:5:13100514:13100574-13100663:13100934:+.
+ERROR:psiCalculator:transcript AT5G05145.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05145_and_AT5G05135;RI:5:13100489:13100574-13100663:13100934:+.
+ERROR:psiCalculator:transcript AT5G00540.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05525_and_AT5G00540;RI:5:15026824:15026960-15027055:15027557:+.
+ERROR:psiCalculator:transcript AT5G45472.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G45472_and_AT5G45469_and_AT5G45475_and_AT5G45490;RI:5:18427335:18428867-18428954:18429122:+.
+ERROR:psiCalculator:transcript AT5G45472.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G45472_and_AT5G45469_and_AT5G45475_and_AT5G45490;RI:5:18421549:18424684-18424994:18425036:+.
+ERROR:lib.tools:14460, in line 14461. Skipping line...
+ERROR:psiCalculator:transcript AT1G07119.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G07119_and_AT1G04563_and_AT1G07130;SE:1:2185175-2185391:2185436-2186103:+.
+ERROR:psiCalculator:transcript AT1G25175.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G25175_and_AT1G25180;SE:1:8827623-8828298:8828544-8829112:+.
+ERROR:psiCalculator:transcript AT1G09023.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G09023_and_AT1G68935_and_AT1G68937;SE:1:25921805-25922423:25922530-25922670:+.
+ERROR:psiCalculator:transcript AT1G15175.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G15175;SE:1:5223652-5223733:5223841-5224033:-.
+ERROR:psiCalculator:transcript AT1G68872.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G68872;SE:1:25889411-25890033:25890141-25890248:-.
+ERROR:psiCalculator:transcript AT1G68872.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G68872;SE:1:25889411-25890033:25890141-25890248:-.
+ERROR:psiCalculator:transcript AT1G68872.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G68872;SE:1:25889411-25889801:25889857-25890033:-.
+ERROR:psiCalculator:transcript AT1G69587.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G69587;SE:1:26176449-26177142:26177250-26179205:-.
+ERROR:psiCalculator:transcript AT1G69587.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT1G69587;SE:1:26176449-26177142:26177250-26179205:-.
+ERROR:psiCalculator:transcript AT2G10921.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G10921;SE:2:4302156-4302537:4302600-4302743:+.
+ERROR:psiCalculator:transcript AT2G30945.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G30945;SE:2:13172648-13173143:13173229-13173700:+.
+ERROR:psiCalculator:transcript AT2G00640.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G00640_and_AT2G07235;SE:2:8447219-8447785:8448080-8448894:+.
+ERROR:psiCalculator:transcript AT2G23040.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G23040;SE:2:9809255-9809338:9809694-9809793:-.
+ERROR:psiCalculator:transcript AT2G23040.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G23040;SE:2:9809255-9809338:9809411-9809793:-.
+ERROR:psiCalculator:transcript AT2G45245.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT2G45245;SE:2:18659876-18659991:18660105-18660593:-.
+ERROR:psiCalculator:transcript AT3G29644.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G29644;SE:3:11499687-11500667:11500727-11501159:-.
+ERROR:psiCalculator:transcript AT3G29644.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G29644;SE:3:11499687-11500667:11500771-11501159:-.
+ERROR:psiCalculator:transcript AT3G63445.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G63445;SE:3:23423821-23425267:23425754-23425993:-.
+ERROR:psiCalculator:transcript AT3G05932.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G05932_and_AT3G05935;SE:3:1771130-1771410:1771533-1772228:-.
+ERROR:psiCalculator:transcript AT3G05932.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G05932_and_AT3G05935;SE:3:1771130-1771410:1771525-1772228:-.
+ERROR:psiCalculator:transcript AT3G51075.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;SE:3:18969368-18970305:18970355-18970448:-.
+ERROR:psiCalculator:transcript AT3G51075.6 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT3G51075_and_AT3G08175;SE:3:18969368-18970305:18970355-18970448:-.
+ERROR:psiCalculator:transcript AT4G02005.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G02005;SE:4:878628-878759:878833-879084:-.
+ERROR:psiCalculator:transcript AT4G02005.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G02005;SE:4:879181-879499:879577-879667:-.
+ERROR:psiCalculator:transcript AT4G06701.5 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G06701;SE:4:3940331-3940466:3940510-3940615:-.
+ERROR:psiCalculator:transcript AT4G06701.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G06701;SE:4:3939923-3940023:3940160-3940248:-.
+ERROR:psiCalculator:transcript AT4G37553.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G37553;SE:4:17648460-17648940:17649004-17649668:-.
+ERROR:psiCalculator:transcript AT4G03085.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G03085_and_AT4G07205;SE:4:12474636-12475151:12475300-12475382:-.
+ERROR:psiCalculator:transcript AT4G04223.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G04223;SE:4:2036817-2036892:2036933-2037601:+.
+ERROR:psiCalculator:transcript AT4G30975.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT4G30975;SE:4:15075398-15076582:15076610-15077028:+.
+ERROR:psiCalculator:transcript AT5G00650.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00650;SE:5:21143273-21143399:21143459-21144694:-.
+ERROR:psiCalculator:transcript AT5G00505.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G00505_and_AT5G04785;SE:5:10614031-10614126:10614167-10614270:-.
+ERROR:psiCalculator:transcript AT5G05435.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05435;SE:5:1606722-1606960:1607060-1607141:+.
+ERROR:psiCalculator:transcript AT5G05435.4 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G05435;SE:5:1606722-1606960:1607060-1607141:+.
+ERROR:psiCalculator:transcript AT5G18255.3 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G18255;SE:5:6035726-6036230:6036292-6036399:+.
+ERROR:psiCalculator:transcript AT5G26146.1 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G26146;SE:5:9136002-9137545:9137685-9137793:+.
+ERROR:psiCalculator:transcript AT5G15845.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G15845_and_AT5G15853;SE:5:5174949-5175201:5175260-5175881:+.
+ERROR:psiCalculator:transcript AT5G49152.2 not found in the "expression file".
+ERROR:psiCalculator:PSI not calculated for event AT5G49152_and_AT5G49150;SE:5:19928441-19928688:19928717-19928814:+.
+INFO:lib.tools:File ioe/ara.all.events.ioe closed.
+INFO:psiCalculator:Generating output ara_events_333.psi
+INFO:psiCalculator:Done

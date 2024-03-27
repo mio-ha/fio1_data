@@ -1,0 +1,39 @@
+ara_diffSplice_Parker20c.dpsi ara_diffSplice_Parker20c_50bp.dpsi
+[[299, 388], [69, 14750]]
+McNemar's test statistic: 69.0
+p-value: 5.830116818965236e-55
+ara_diffSplice_Parker20c_100bp.dpsi ara_diffSplice_Parker20c.dpsi
+[[543, 49], [144, 14770]]
+McNemar's test statistic: 49.0
+p-value: 4.8503930945583355e-12
+ara_diffSplice_Parker20c_50bp.dpsi ara_diffSplice_Parker20c_100bp.dpsi
+[[305, 63], [287, 14851]]
+McNemar's test statistic: 63.0
+p-value: 2.7802755849793473e-35
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/SUPPA$ python mcnemar_SUPPA.py
+ara_diffSplice_Parker20c.dpsi ara_diffSplice_Parker20c_333.dpsi
+[[362, 325], [52, 14767]]
+McNemar's test statistic: 52.0
+p-value: 2.2319979236599472e-49
+ara_diffSplice_Parker20c_667.dpsi ara_diffSplice_Parker20c.dpsi
+[[543, 34], [144, 14785]]
+McNemar's test statistic: 34.0
+p-value: 2.5863049795330737e-17
+ara_diffSplice_Parker20c_333.dpsi ara_diffSplice_Parker20c_667.dpsi
+[[362, 52], [215, 14877]]
+McNemar's test statistic: 52.0
+p-value: 1.0136730712789635e-24
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/SUPPA$ python mcnemar_SUPPA.py
+ara_diffSplice_Parker20c.dpsi ara_diffSplice_Parker20c_2rep.dpsi
+[[584, 103], [426, 14393]]
+McNemar's test statistic: 103.0
+p-value: 1.1857618730339648e-47
+ara_diffSplice_Parker20c_4rep.dpsi ara_diffSplice_Parker20c.dpsi
+[[613, 182], [74, 14637]]
+McNemar's test statistic: 74.0
+p-value: 1.1269613933588162e-11
+ara_diffSplice_Parker20c_2rep.dpsi ara_diffSplice_Parker20c_4rep.dpsi
+[[602, 408], [193, 14303]]
+McNemar's test statistic: 193.0
+p-value: 1.09746281838465e-18
+
