@@ -1,0 +1,36 @@
+[[3414, 2672], [680, 151805]]
+McNemar's test statistic: 680.0
+p-value: 6.541731965244531e-277
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/DEXSeq$ python mcnemar_DEXSeq.py
+[[2022, 3986], [528, 145631]]
+McNemar's test statistic: 528.0
+p-value: 0.0
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/DEXSeq$ python mcnemar_DEXSeq.py
+[[2039, 2030], [513, 147608]]
+McNemar's test statistic: 513.0
+p-value: 3.1002699493527604e-212
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/DEXSeq$ python mcnemar_DEXSeq.py
+[[4052, 2048], [761, 152726]]
+McNemar's test statistic: 761.0
+p-value: 6.057200260343775e-135
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/DEXSeq$ python mcnemar_DEXSeq.py
+[[3356, 2732], [827, 151887]]
+McNemar's test statistic: 827.0
+p-value: 1.6795463601888313e-235
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/DEXSeq$ python mcnemar_DEXSeq.py
+[[3563, 1246], [620, 153009]]
+McNemar's test statistic: 620.0
+p-value: 2.4647822139237792e-48
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/DEXSeq$ python mcnemar_DEXSeq.py
+[[2446, 3734], [3702, 150958]]
+McNemar's test statistic: 3702.0
+p-value: 0.7192279690535986
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/DEXSeq$ python mcnemar_DEXSeq.py
+[[3413, 2772], [1030, 155176]]
+McNemar's test statistic: 1030.0
+p-value: 5.1331983723764684e-182
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/DEXSeq$ python mcnemar_DEXSeq.py
+[[2055, 4091], [2373, 151736]]
+McNemar's test statistic: 2373.0
+p-value: 2.1707367919877313e-102
+
