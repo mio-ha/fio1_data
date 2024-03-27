@@ -1,0 +1,76 @@
+#Quality control
+find . -name "*_r2.fq.gz" | parallel -j 4 fastqc {}
+
+multiqc ./
+
+ls *_1.fastq | parallel -j 4 "fpath={}; cutadapt -a AGATCGGAAGAG -A AGATCGGAAGAG -q 30,30 -m 20 -o ./tech/\${fpath%_1.fastq}_1_noad.fastq.gz -p ./tech/\${fpath%_1.fastq}_2_noad.fastq.gz \${fpath} \${fpath%_1.fastq}_2.fastq"
+
+#Mapping
+STAR      --runThreadN 12 \
+          --runMode genomeGenerate \
+          --genomeDir ref_tech \
+          --genomeFastaFiles ${reference_dir}/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa \
+          --sjdbGTFfile ${reference_dir}/Araport11_GTF_genes_transposons.Apr2023.gtf \
+          --genomeSAindexNbases 12
+
+ls *_1.fq.gz | parallel -j 4 'fpath={}; \
+STAR --runThreadN 36 \
+     --genomeDir ${reference_dir}/ref_tech \
+     --readFilesIn ${fpath} ${fpath%_1.fq.gz}_2.fq.gz \
+     --genomeLoad LoadAndRemove \
+     --outFileNamePrefix ${fpath%_1.fq.gz} \
+     --outSAMtype BAM SortedByCoordinate \
+     --limitBAMsortRAM 60031462794 \
+     --readFilesCommand zcat'
+
+#Read count
+python ${software_dir}/Subread_to_DEXSeq/dexseq_prepare_annotation2.py \
+	-f splicing_variants_flat.gtf \
+	splicing_variants.gtf \
+	splicing_variants_flat.gff
+
+featureCounts -f -O -p -T 4 \
+-F GTF -a splicing_variants_flat.gtf \
+-o dex_counts_down_flat.txt \
+STAR/*Aligned.sortedByCoord.out.bam
+
+salmon index -p 8 -t ${reference_dir}/Arabidopsis_thaliana.TAIR10.exon.toplevel.fa -i salmon_index
+
+ls *_667_100bp_1.fq.gz | parallel -j 1 "fpath={}; salmon quant -i ${reference_dir}/tech_salmon_index -l A -p 2 --validateMappings -1 \${fpath} -2 \${fpath%_1.fq.gz}_2.fq.gz -o ../salmon/\${fpath%_1.fq.gz}"
+
+#Differential splicing analysis (rMATS)
+python ${software_dir}/rmats_turbo_v4_1_2/rmats.py --b1 splicing_samples.txt --b2 temp_samples.txt --gtf splicing_variants.gtf -t paired --variable-read-length --readLength 150 --nthread 4 --cstat 0.1 --od rmats_RSim --tmp rmats_RSim_tmp
+
+#Differential splicing analysis (SUPPA2)
+python ${software_dir}/SUPPA-2.3/suppa.py generateEvents --pool-genes \
+-i splicing_variants.gtf \
+-o ioe/ara.events -e SE SS MX RI FL -f ioe
+
+python ${software_dir}/SUPPA-2.3/multipleFieldSelection.py \
+-i ../../tech_salmon/Parker_667_100bp/ERR*/quant.sf -k 1 -f 4 \
+-o tpm_samples.txt
+
+python ${software_dir}/SUPPA-2.3/suppa.py psiPerEvent \
+-i ioe/ara.all.events.ioe -e tpm_samples.txt -o ara_events 1>ara_events_log.txt 2>&1
+
+cut -f 1-7 ara_events_RSim.psi > control_RSim.psi
+cut -f 1-7 salmon/tpm_samples.txt > control_RSim.tpm
+
+cut -f 1,8-13 ara_events_RSim.psi > treat_RSim.psi
+cut -f 1,8-13 salmon/tpm_samples.txt > treat_RSim.tpm
+
+python ${software_dir}/SUPPA-2.3/suppa.py diffSplice \
+-m empirical -gc \
+-i ioe/ara.all.events.ioe \
+--save_tpm_events \
+-p control_RSim.psi treat_RSim.psi \
+-e control_RSim.tpm treat_RSim.tpm \
+-o ara_diffSplice_RSim
+
+#Identifying overlaps of DS events
+bedtools intersect -wa -a SUPPA/SUPPA_Wang_sorted.bed -b DEXSeq/DEXSeq_Wang_sorted.bed -sorted > overlap_Wang_SUPPA_DEX.bed
+
+#Downsampling datasets
+ls *.fastq.gz | parallel -j 1 'fpath={}; seqkit sample -s 1 -p 0.333 ${fpath} |pigz -c - -p 8 > ${fpath%.fastq.gz}_333.fq.gz'
+
+ls *_667_1.fq.gz | parallel -j 1 'fpath={}; seqkit subseq -r 1:100 ${fpath} |pigz -c - -p 2 > ${fpath%_1.fq.gz}_100bp_1.fq.gz'

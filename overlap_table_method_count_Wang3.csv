@@ -1,0 +1,5 @@
+	DEXSeq	edgeR	rMATS	SUPPA
+DEXSeq		15	11	21
+edgeR	15		2	3
+rMATS	11	2		11
+SUPPA	21	3	11	

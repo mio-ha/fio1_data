@@ -1,0 +1,11 @@
+A3SS -のとき　start+1
+     +のとき　end+1
+A5SS -のとき　start+1
+     +のとき　end+1
+     
+RI end+1
+SE start+1
+この後、-のstrat endを入れ替える
+
+A3SS -のとき end1が大きい
+A5SS +のときstart1が大きい
