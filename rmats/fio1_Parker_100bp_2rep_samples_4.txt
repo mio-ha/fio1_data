@@ -1,0 +1,1 @@
+/media/miyokawa/8TB-Data3/STAR_sample/ERR9081510_100bpAligned.sortedByCoord.out.bam,/media/miyokawa/8TB-Data3/STAR_sample/ERR9081513_100bpAligned.sortedByCoord.out.bam

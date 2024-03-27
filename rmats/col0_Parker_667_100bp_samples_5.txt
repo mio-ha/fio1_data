@@ -1,0 +1,1 @@
+/media/miyokawa/8TB-Data3/tech_data/tech_bam/test2/Parker_Col-0_20c_1_667_100bp.bam,/media/miyokawa/8TB-Data3/tech_data/tech_bam/test2/Parker_Col-0_20c_6_667_100bp.bam

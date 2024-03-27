@@ -1,0 +1,1 @@
+./tech_bam/Wang_Col-0_1.bam,./tech_bam/Wang_Col-0_2.bam

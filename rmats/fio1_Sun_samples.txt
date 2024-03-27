@@ -1,0 +1,1 @@
+./tech_bam/Sun_fio1-1_1.bam,./tech_bam/Sun_fio1-1_2.bam,./tech_bam/Sun_fio1-5_1.bam,./tech_bam/Sun_fio1-5_2.bam

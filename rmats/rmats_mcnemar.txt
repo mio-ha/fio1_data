@@ -1,0 +1,39 @@
+rmats_Parker20c/ALL.MATS.JCEC.csv rmats_Parker20c_2rep/ALL.MATS.JCEC.csv
+[[181, 432], [233, 25131]]
+McNemar's test statistic: 233.0
+p-value: 1.0280542715770954e-14
+rmats_Parker20c_4rep/ALL.MATS.JCEC.csv rmats_Parker20c/ALL.MATS.JCEC.csv
+[[261, 249], [374, 30295]]
+McNemar's test statistic: 249.0
+p-value: 6.230847512104222e-07
+rmats_Parker20c_2rep/ALL.MATS.JCEC.csv rmats_Parker20c_4rep/ALL.MATS.JCEC.csv
+[[165, 246], [318, 23848]]
+McNemar's test statistic: 246.0
+p-value: 0.0027609990667711117
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/rmats$ python mcnemar_rMATS.py
+rmats_Parker20c/ALL.MATS.JCEC.csv rmats_Parker_333/ALL.MATS.JCEC.csv
+[[201, 414], [252, 26530]]
+McNemar's test statistic: 252.0
+p-value: 3.6368316330464605e-10
+rmats_Parker_667/ALL.MATS.JCEC.csv rmats_Parker20c/ALL.MATS.JCEC.csv
+[[274, 301], [359, 30201]]
+McNemar's test statistic: 301.0
+p-value: 0.026430750274661713
+rmats_Parker_333/ALL.MATS.JCEC.csv rmats_Parker_667/ALL.MATS.JCEC.csv
+[[200, 243], [345, 25850]]
+McNemar's test statistic: 243.0
+p-value: 2.9808453178005572e-05
+miyokawa@miyokawa-Precision-3450:/media/miyokawa/8TB-Data3/tech_data/rmats$ python mcnemar_rMATS.py
+rmats_Parker20c/ALL.MATS.JCEC.csv rmats_Parker_50bp/ALL.MATS.JCEC.csv
+[[197, 415], [270, 24623]]
+McNemar's test statistic: 270.0
+p-value: 3.354114324046498e-08
+rmats_Parker_100bp/ALL.MATS.JCEC.csv rmats_Parker20c/ALL.MATS.JCEC.csv
+[[262, 325], [375, 30608]]
+McNemar's test statistic: 325.0
+p-value: 0.06394511883382077
+rmats_Parker_50bp/ALL.MATS.JCEC.csv rmats_Parker_100bp/ALL.MATS.JCEC.csv
+[[205, 250], [348, 24321]]
+McNemar's test statistic: 250.0
+p-value: 7.042428352783268e-05
+

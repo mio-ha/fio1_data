@@ -1,0 +1,1 @@
+./tech_bam/Cai_Col-0_1.bam,./tech_bam/Cai_Col-0_2.bam,./tech_bam/Cai_Col-0_3.bam
